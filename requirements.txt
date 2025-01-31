@@ -1,4 +1,6 @@
-﻿altair==5.0.1
+freeglut3-dev
+libgtk2.0-dev
+altair==5.0.1
 attrs==24.2.0
 backcall==0.2.0
 backports.zoneinfo==0.2.1

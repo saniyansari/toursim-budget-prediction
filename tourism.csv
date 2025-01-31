@@ -1,0 +1,1001 @@
+Tourist_ID,Country,Age,Gender,Travel_Purpose,Preferred_Destination,Stay_Duration_Days,Spending_USD,Accommodation_Type,Travel_Frequency_per_Year,Average_Spending_Accommodation_USD,Average_Spending_Transport_USD,Average_Spending_Food_USD,Average_Cost_Per_Day_AED,With_Family
+T0001,France,33,Male,Medical,Beach,8,3024,Hotel,3,293,103,35,5041.995085,Without Family
+T0002,Canada,58,Female,Business,Beach,27,2469,Hostel,6,258,79,141,1559.226171,Without Family
+T0003,Canada,35,Other,Education,City,16,684,Resort,1,328,266,176,2510.978323,With Family
+T0004,UK,39,Other,Leisure,Adventure Park,3,880,Hotel,8,479,228,110,2362.073069,With Family
+T0005,France,49,Male,Leisure,Beach,10,654,Airbnb,5,331,121,194,1393.362935,Without Family
+T0006,UK,37,Other,Medical,Beach,26,2040,Resort,8,162,268,163,913.6448779,Without Family
+T0007,USA,51,Male,Education,City,29,2888,Resort,10,465,191,121,3291.818483,Without Family
+T0008,UK,23,Female,Medical,Beach,24,3639,Hostel,1,268,195,104,5431.008785,Without Family
+T0009,Germany,42,Male,Medical,Mountain,27,2860,Hostel,7,321,264,59,1420.476964,With Family
+T0010,France,58,Female,Education,Mountain,15,898,Resort,6,106,247,137,5080.168755,With Family
+T0011,USA,72,Male,Business,Mountain,17,3913,Hotel,8,140,152,165,3218.068053,With Family
+T0012,Germany,50,Other,Education,Adventure Park,30,2218,Airbnb,12,212,257,141,2188.141824,With Family
+T0013,Australia,38,Male,Medical,Adventure Park,13,1216,Resort,11,57,78,87,1554.800542,Without Family
+T0014,China,66,Male,Business,City,26,1930,Airbnb,5,141,162,54,3045.450662,Without Family
+T0015,Canada,53,Male,Business,Mountain,24,1671,Hostel,6,400,264,100,1750.931267,Without Family
+T0016,India,46,Other,Medical,Beach,19,876,Hostel,11,64,142,84,1613.134723,Without Family
+T0017,China,42,Male,Business,City,15,2926,Resort,5,254,292,150,2168.760501,Without Family
+T0018,Canada,44,Female,Business,Adventure Park,7,817,Airbnb,10,339,79,82,4708.772697,With Family
+T0019,India,57,Other,Education,City,9,3142,Airbnb,8,465,125,87,4850.215668,Without Family
+T0020,Germany,37,Male,Medical,City,3,3468,Hostel,4,234,215,183,4564.189595,Without Family
+T0021,Germany,45,Other,Education,Mountain,12,4949,Resort,5,358,131,126,3397.153996,Without Family
+T0022,Canada,19,Other,Medical,Adventure Park,19,1398,Resort,2,272,115,132,4989.178495,Without Family
+T0023,China,71,Female,Business,Adventure Park,10,2010,Resort,5,209,33,37,1595.46294,With Family
+T0024,Canada,26,Female,Business,City,26,466,Airbnb,7,486,48,76,3709.227097,Without Family
+T0025,Germany,18,Male,Education,Adventure Park,16,1334,Resort,12,215,88,118,735.9633541,Without Family
+T0026,Canada,55,Other,Leisure,Adventure Park,7,1958,Airbnb,2,159,206,116,4323.167937,With Family
+T0027,France,53,Female,Education,Mountain,2,4716,Airbnb,3,245,259,163,2096.147392,With Family
+T0028,Germany,49,Male,Medical,Countryside,21,1987,Hostel,3,461,135,94,4107.354312,Without Family
+T0029,Germany,64,Male,Business,Countryside,16,3320,Resort,12,224,250,197,1513.792725,Without Family
+T0030,Canada,50,Other,Education,City,24,1886,Hotel,2,282,59,170,3189.666635,Without Family
+T0031,India,54,Female,Business,City,28,3775,Airbnb,1,164,114,197,4902.516312,Without Family
+T0032,USA,73,Male,Leisure,Adventure Park,11,1106,Resort,10,439,80,61,1060.230588,With Family
+T0033,India,36,Female,Education,City,11,1233,Hotel,6,333,224,145,5369.707213,With Family
+T0034,France,47,Female,Leisure,Countryside,24,2453,Resort,3,210,249,73,2529.448078,With Family
+T0035,China,62,Male,Leisure,Mountain,11,542,Hostel,5,259,241,176,4024.027797,Without Family
+T0036,India,69,Female,Leisure,Mountain,19,458,Hostel,8,114,166,176,4485.759552,With Family
+T0037,France,56,Other,Business,City,27,1263,Airbnb,8,339,236,158,3288.488119,Without Family
+T0038,India,44,Male,Education,Adventure Park,22,4529,Hostel,5,119,103,84,4312.256073,Without Family
+T0039,USA,44,Female,Business,Mountain,15,1351,Airbnb,12,172,278,175,3459.974218,Without Family
+T0040,China,35,Other,Education,City,26,4700,Resort,10,422,35,156,4834.562661,With Family
+T0041,UK,34,Male,Education,Mountain,9,4222,Airbnb,10,480,88,153,4058.026809,With Family
+T0042,France,50,Other,Medical,Beach,14,4569,Resort,7,387,143,133,4527.370204,With Family
+T0043,China,18,Other,Medical,Countryside,9,4696,Hostel,1,53,60,32,3012.75253,With Family
+T0044,UK,47,Other,Leisure,Mountain,17,3845,Resort,7,165,230,42,1682.435403,With Family
+T0045,Canada,46,Female,Medical,Adventure Park,26,531,Hostel,12,101,226,30,1850.125318,Without Family
+T0046,Australia,37,Male,Leisure,Mountain,29,4979,Hostel,7,178,288,52,3347.468329,With Family
+T0047,USA,52,Female,Education,Countryside,8,681,Hostel,12,88,147,91,788.6061219,Without Family
+T0048,Germany,22,Female,Medical,Beach,30,1426,Hotel,2,204,172,87,5386.478014,With Family
+T0049,India,56,Other,Education,City,30,1882,Hotel,6,293,97,81,3838.4863,Without Family
+T0050,China,43,Male,Leisure,Adventure Park,30,621,Resort,10,474,46,69,4694.667004,With Family
+T0051,UK,23,Male,Leisure,Beach,3,3138,Hostel,11,257,296,153,3114.640918,With Family
+T0052,India,75,Other,Leisure,Mountain,5,3567,Hotel,7,151,192,24,2838.737215,Without Family
+T0053,India,18,Female,Business,Countryside,28,3999,Resort,5,128,136,50,2651.779824,Without Family
+T0054,Canada,44,Other,Medical,Beach,3,4610,Hotel,12,57,234,186,1756.786533,Without Family
+T0055,China,25,Other,Education,Countryside,23,3638,Airbnb,8,278,255,24,5196.101093,With Family
+T0056,USA,62,Female,Leisure,City,24,2483,Airbnb,9,330,129,114,1168.099039,Without Family
+T0057,France,67,Male,Leisure,City,27,3384,Hotel,8,231,257,92,3103.629407,With Family
+T0058,France,41,Other,Business,City,4,380,Resort,6,111,244,58,2132.470976,With Family
+T0059,USA,73,Other,Medical,Mountain,5,977,Airbnb,5,197,87,193,5242.569304,Without Family
+T0060,Australia,18,Female,Education,Beach,27,2392,Airbnb,2,247,245,138,3518.136023,With Family
+T0061,France,52,Other,Medical,Countryside,18,4307,Hotel,5,498,210,113,3823.381667,Without Family
+T0062,China,73,Male,Leisure,City,7,1361,Airbnb,8,368,129,32,1008.103755,Without Family
+T0063,China,18,Female,Education,City,17,4254,Resort,6,97,142,161,5253.032391,With Family
+T0064,UK,26,Female,Leisure,Adventure Park,12,3203,Hostel,10,409,142,189,3317.253502,With Family
+T0065,France,52,Male,Education,City,9,1397,Hotel,1,220,286,144,4025.631844,Without Family
+T0066,Germany,53,Other,Medical,Beach,8,1421,Resort,1,465,181,61,4190.987191,Without Family
+T0067,USA,67,Female,Medical,Mountain,21,4494,Hotel,8,182,222,188,1587.395307,Without Family
+T0068,France,26,Male,Medical,City,13,3927,Resort,6,227,259,151,2378.202491,With Family
+T0069,Germany,43,Male,Business,City,28,4591,Resort,1,77,205,79,3468.557227,With Family
+T0070,USA,64,Male,Education,Beach,14,1007,Hostel,4,92,175,195,4878.004814,With Family
+T0071,Germany,30,Female,Medical,City,29,525,Hostel,10,442,56,166,3501.770117,Without Family
+T0072,France,70,Other,Medical,Mountain,2,1484,Hostel,10,147,219,69,2389.497371,With Family
+T0073,USA,63,Female,Education,City,6,884,Resort,9,229,78,82,3351.990278,Without Family
+T0074,France,26,Female,Medical,Beach,9,762,Resort,9,340,262,47,4414.574839,Without Family
+T0075,France,45,Other,Leisure,Mountain,20,3814,Hostel,12,192,213,71,1892.283347,With Family
+T0076,USA,55,Other,Education,Mountain,5,3515,Resort,11,175,236,108,5504.45678,With Family
+T0077,China,23,Female,Medical,City,3,2106,Hotel,2,376,63,119,5024.994784,With Family
+T0078,France,69,Male,Education,Beach,18,1993,Hostel,8,304,142,120,3852.783794,With Family
+T0079,USA,50,Male,Medical,Countryside,26,2652,Airbnb,11,259,284,26,1009.229213,With Family
+T0080,China,28,Male,Education,Countryside,25,939,Hotel,10,257,89,83,816.2998453,With Family
+T0081,Canada,24,Male,Medical,City,30,3590,Hotel,11,108,74,105,1088.318627,Without Family
+T0082,USA,72,Other,Business,Mountain,10,4793,Resort,10,246,246,144,2656.612652,With Family
+T0083,USA,39,Other,Business,Countryside,12,509,Resort,11,223,144,177,1928.001338,With Family
+T0084,USA,65,Male,Leisure,Mountain,3,3376,Hotel,7,335,68,122,4122.269502,Without Family
+T0085,Canada,56,Female,Medical,Mountain,22,1509,Airbnb,6,216,219,199,2030.134722,With Family
+T0086,UK,65,Female,Medical,City,8,4848,Hostel,6,304,227,21,1282.398395,With Family
+T0087,USA,35,Male,Business,Beach,27,347,Resort,11,150,65,183,1944.112372,Without Family
+T0088,UK,44,Male,Education,City,9,3220,Hotel,3,454,76,193,4202.611205,Without Family
+T0089,Germany,59,Male,Leisure,Adventure Park,24,3348,Resort,8,152,88,198,2294.655096,With Family
+T0090,Canada,40,Male,Leisure,Countryside,21,3319,Hotel,11,456,69,98,4607.803031,Without Family
+T0091,Germany,37,Female,Business,Adventure Park,22,1138,Hostel,1,176,119,98,4796.906629,Without Family
+T0092,USA,46,Other,Education,Countryside,19,4272,Airbnb,7,492,293,185,1097.683943,With Family
+T0093,China,74,Other,Leisure,City,29,1192,Hostel,1,242,246,139,5022.311651,Without Family
+T0094,USA,20,Female,Education,Countryside,5,785,Resort,5,61,54,54,3906.377869,With Family
+T0095,Germany,21,Male,Medical,Adventure Park,30,2265,Hotel,1,144,60,36,3076.6427,With Family
+T0096,China,20,Other,Medical,City,18,689,Resort,2,446,62,188,5310.399629,Without Family
+T0097,USA,59,Male,Education,Beach,7,1182,Airbnb,9,286,115,195,1321.95644,With Family
+T0098,Australia,51,Other,Education,Mountain,27,1150,Hostel,11,443,270,189,2593.772142,With Family
+T0099,UK,53,Other,Leisure,Mountain,8,2139,Hostel,1,459,136,131,3543.857915,With Family
+T0100,India,60,Male,Medical,City,3,1131,Hotel,4,304,45,56,4629.68282,With Family
+T0101,Germany,54,Male,Medical,Beach,26,391,Hotel,11,252,274,72,3420.708515,With Family
+T0102,Germany,52,Other,Leisure,City,14,3197,Resort,2,165,187,180,4689.00506,With Family
+T0103,USA,40,Male,Education,Beach,8,3717,Resort,5,76,110,107,3045.264736,Without Family
+T0104,UK,61,Other,Business,Mountain,2,1887,Airbnb,9,260,190,119,1124.107651,Without Family
+T0105,USA,48,Male,Business,Mountain,7,1076,Hostel,7,298,94,175,2718.467461,Without Family
+T0106,France,56,Female,Medical,Countryside,21,2458,Hotel,5,253,39,63,4818.990826,With Family
+T0107,Canada,46,Male,Medical,Beach,4,676,Resort,5,361,143,187,864.6772603,Without Family
+T0108,USA,40,Other,Medical,Countryside,8,970,Resort,10,347,99,34,3844.767506,Without Family
+T0109,USA,21,Other,Leisure,Adventure Park,5,4513,Hotel,1,403,214,73,4960.959679,Without Family
+T0110,China,19,Other,Business,Adventure Park,8,2638,Hotel,6,379,196,168,2046.171555,Without Family
+T0111,Canada,69,Female,Business,Adventure Park,4,684,Hotel,1,134,295,105,3031.309202,With Family
+T0112,UK,70,Other,Medical,Mountain,11,2476,Hostel,7,425,39,177,2229.504672,Without Family
+T0113,USA,31,Male,Business,Mountain,16,4637,Resort,11,351,219,82,4014.144228,Without Family
+T0114,Germany,35,Other,Business,Mountain,24,3639,Hostel,11,430,105,193,4685.25561,With Family
+T0115,India,63,Other,Medical,Mountain,26,3409,Resort,2,469,148,22,883.1510249,Without Family
+T0116,UK,42,Female,Medical,Adventure Park,3,3290,Hostel,6,446,152,164,1976.340781,With Family
+T0117,Australia,48,Male,Education,City,19,762,Hostel,12,317,195,28,4596.385937,With Family
+T0118,USA,30,Male,Business,Beach,27,3808,Hostel,1,76,58,102,2672.603285,With Family
+T0119,India,18,Other,Business,Countryside,27,832,Hostel,10,413,141,113,5270.432469,Without Family
+T0120,China,56,Female,Medical,Countryside,27,3807,Airbnb,7,277,245,195,5227.831569,Without Family
+T0121,China,42,Male,Business,City,15,3258,Airbnb,11,476,242,87,4815.897495,Without Family
+T0122,Germany,59,Female,Business,Adventure Park,18,4020,Hostel,11,294,160,83,3770.550618,With Family
+T0123,Canada,27,Other,Business,Countryside,25,1246,Resort,7,480,94,60,4929.851154,Without Family
+T0124,Germany,62,Female,Leisure,Mountain,13,4836,Airbnb,11,440,74,79,2019.192109,Without Family
+T0125,France,51,Other,Leisure,Beach,16,2876,Airbnb,10,103,183,71,2540.947262,With Family
+T0126,UK,40,Male,Medical,Adventure Park,22,2679,Resort,10,129,102,119,3632.118762,Without Family
+T0127,Germany,18,Male,Leisure,Countryside,5,2006,Hotel,5,419,299,93,3007.846494,Without Family
+T0128,France,58,Male,Education,Adventure Park,16,225,Hotel,3,169,33,54,1404.161084,With Family
+T0129,USA,42,Other,Leisure,Countryside,9,534,Resort,9,305,132,28,3397.811216,Without Family
+T0130,Germany,36,Other,Business,Mountain,11,2514,Resort,4,102,237,65,3920.433501,With Family
+T0131,Canada,65,Other,Business,Countryside,19,682,Airbnb,8,424,190,149,1574.606554,With Family
+T0132,Canada,56,Male,Business,Countryside,3,2872,Resort,9,121,76,69,1652.111061,With Family
+T0133,India,18,Female,Medical,Adventure Park,14,3192,Airbnb,9,491,225,184,4892.082201,Without Family
+T0134,Germany,43,Other,Education,Adventure Park,28,3179,Hotel,11,364,296,167,3896.324832,Without Family
+T0135,India,44,Other,Medical,Countryside,13,1002,Hostel,7,341,246,191,2499.321217,Without Family
+T0136,Australia,40,Male,Education,City,6,3814,Resort,11,214,207,79,3943.545282,Without Family
+T0137,India,39,Other,Education,Beach,13,973,Hostel,3,246,266,94,5095.775944,With Family
+T0138,France,59,Other,Leisure,City,27,3637,Hotel,12,142,136,79,5428.38677,Without Family
+T0139,UK,29,Female,Medical,Adventure Park,30,3647,Resort,12,79,232,75,1540.032005,With Family
+T0140,India,71,Other,Business,Countryside,6,905,Resort,10,370,207,101,2211.573218,Without Family
+T0141,Australia,37,Male,Medical,Beach,23,2885,Hostel,11,385,109,53,2676.352202,Without Family
+T0142,France,47,Other,Business,City,12,3869,Hostel,11,409,134,96,3819.273803,With Family
+T0143,China,62,Female,Education,City,29,2141,Airbnb,2,364,102,76,2674.876163,With Family
+T0144,Canada,51,Male,Leisure,Mountain,18,3517,Hotel,12,438,52,146,3750.728486,With Family
+T0145,Canada,66,Male,Leisure,Countryside,8,2697,Resort,1,500,120,98,1616.169207,Without Family
+T0146,Australia,68,Other,Medical,Mountain,9,1755,Resort,11,282,145,192,4214.253827,Without Family
+T0147,France,56,Other,Education,Countryside,27,3935,Hotel,11,477,104,198,5426.022806,With Family
+T0148,India,30,Female,Education,Adventure Park,22,1430,Airbnb,8,68,141,182,2057.278886,Without Family
+T0149,UK,19,Male,Leisure,Countryside,20,4346,Hostel,2,355,178,35,1970.80873,Without Family
+T0150,UK,43,Male,Education,Beach,5,3539,Hotel,1,391,129,36,3866.722474,Without Family
+T0151,India,61,Female,Medical,Beach,6,3228,Airbnb,5,341,132,161,2921.652121,With Family
+T0152,UK,34,Other,Business,Mountain,29,1135,Airbnb,7,398,145,197,4948.027193,With Family
+T0153,China,57,Other,Business,Mountain,27,1175,Hostel,12,413,190,141,2123.492098,Without Family
+T0154,Germany,30,Female,Leisure,Mountain,10,472,Hostel,6,92,295,96,4435.957516,With Family
+T0155,Canada,23,Male,Medical,Countryside,29,4512,Airbnb,8,297,281,155,2379.062043,Without Family
+T0156,France,32,Male,Leisure,Adventure Park,25,1926,Hostel,11,399,131,96,3298.912468,Without Family
+T0157,France,65,Female,Leisure,Beach,2,1758,Resort,6,245,180,26,3389.385589,Without Family
+T0158,Australia,75,Female,Leisure,Adventure Park,5,2286,Resort,7,328,108,32,1623.719288,With Family
+T0159,China,57,Female,Leisure,City,10,232,Airbnb,11,68,175,144,3484.395447,Without Family
+T0160,Canada,38,Other,Leisure,Countryside,10,565,Resort,7,95,273,96,3688.429498,With Family
+T0161,USA,71,Other,Leisure,Countryside,2,4600,Hotel,7,88,239,103,5186.222942,Without Family
+T0162,Canada,22,Other,Leisure,Countryside,8,788,Resort,7,190,148,69,2462.477076,With Family
+T0163,Australia,24,Other,Business,City,16,1757,Hostel,7,345,287,181,1318.934717,Without Family
+T0164,Australia,42,Other,Medical,Mountain,7,2253,Resort,11,429,202,113,2907.390641,With Family
+T0165,UK,72,Male,Business,Countryside,29,4257,Resort,3,172,242,168,2217.019888,With Family
+T0166,USA,62,Male,Business,Adventure Park,3,3137,Hotel,9,230,293,190,2568.793658,With Family
+T0167,UK,50,Female,Medical,Adventure Park,4,4036,Resort,12,370,76,69,2432.751468,Without Family
+T0168,USA,73,Female,Education,Beach,15,4144,Hotel,7,460,72,83,3090.686932,Without Family
+T0169,Australia,58,Male,Leisure,Adventure Park,29,408,Hostel,10,275,270,156,1553.151596,With Family
+T0170,USA,28,Other,Leisure,Countryside,20,1235,Hotel,6,381,237,88,1724.147609,Without Family
+T0171,Australia,21,Male,Business,Mountain,24,1403,Resort,9,100,273,76,3998.310509,Without Family
+T0172,Canada,67,Female,Leisure,Countryside,28,2442,Hostel,5,128,77,27,1688.963352,With Family
+T0173,France,49,Male,Education,City,28,702,Hotel,3,424,184,25,4423.753581,Without Family
+T0174,Australia,48,Female,Business,City,22,4961,Hotel,9,371,119,154,3866.484317,With Family
+T0175,UK,31,Female,Medical,Adventure Park,7,644,Resort,5,396,84,89,5306.296164,With Family
+T0176,France,33,Male,Business,Mountain,27,2062,Resort,1,124,196,80,1443.909725,Without Family
+T0177,Australia,65,Female,Medical,Mountain,7,1966,Airbnb,5,184,259,65,2627.509429,With Family
+T0178,India,38,Female,Leisure,Mountain,22,2715,Resort,6,85,103,200,4564.276616,With Family
+T0179,China,19,Female,Leisure,Countryside,25,4187,Airbnb,2,378,280,35,3504.92675,Without Family
+T0180,Canada,52,Male,Medical,Countryside,5,4358,Hotel,5,297,192,59,3532.844266,With Family
+T0181,Germany,38,Other,Leisure,City,4,1481,Hostel,2,421,216,117,3970.073902,With Family
+T0182,Australia,51,Female,Medical,Mountain,26,649,Hotel,6,450,168,55,4035.31984,Without Family
+T0183,Germany,55,Male,Business,Beach,2,1259,Hostel,6,214,126,54,1806.568251,Without Family
+T0184,France,61,Female,Medical,Beach,22,2297,Hotel,12,202,195,118,1473.051129,With Family
+T0185,UK,68,Female,Business,City,13,1779,Resort,2,280,170,130,4954.164228,With Family
+T0186,Germany,18,Female,Medical,Adventure Park,8,4622,Resort,10,312,236,166,3690.511653,With Family
+T0187,China,59,Male,Education,Countryside,10,1019,Hotel,8,206,185,196,2945.691611,Without Family
+T0188,USA,59,Male,Medical,Mountain,30,2124,Resort,4,241,53,156,3884.268419,With Family
+T0189,France,66,Other,Education,Mountain,24,980,Hotel,4,407,142,91,4931.705861,With Family
+T0190,China,25,Other,Medical,Beach,10,2993,Hotel,8,330,233,114,1033.733341,Without Family
+T0191,France,73,Female,Business,Countryside,13,878,Airbnb,3,209,275,138,1310.337981,Without Family
+T0192,UK,75,Male,Leisure,City,2,1402,Hotel,12,347,216,86,4759.860268,With Family
+T0193,USA,61,Female,Medical,Mountain,30,3872,Resort,3,84,85,43,5190.043752,Without Family
+T0194,USA,50,Female,Leisure,Beach,18,4546,Resort,4,120,143,97,2566.726283,Without Family
+T0195,Australia,65,Female,Medical,Adventure Park,10,3703,Hotel,7,313,268,163,2170.868158,Without Family
+T0196,Germany,57,Female,Leisure,Mountain,30,671,Hotel,6,63,194,147,3843.596088,Without Family
+T0197,UK,44,Male,Leisure,Mountain,19,3046,Hostel,3,172,183,76,4556.069027,With Family
+T0198,China,52,Male,Leisure,Beach,8,767,Hotel,2,382,42,141,2986.386958,With Family
+T0199,USA,60,Other,Education,Beach,29,1351,Hotel,3,158,35,178,2556.889253,Without Family
+T0200,UK,28,Male,Leisure,Mountain,9,3183,Airbnb,5,245,113,156,1466.158281,With Family
+T0201,USA,53,Male,Leisure,Beach,9,604,Hotel,3,291,114,170,2983.372012,Without Family
+T0202,UK,73,Female,Education,Mountain,11,4306,Hostel,3,272,261,77,1427.661849,Without Family
+T0203,France,18,Other,Medical,Countryside,24,645,Resort,4,433,245,133,3948.888854,Without Family
+T0204,Australia,70,Male,Medical,Mountain,10,1328,Airbnb,4,262,156,151,2114.440938,Without Family
+T0205,France,35,Other,Leisure,City,3,4571,Hostel,4,292,66,66,2386.395882,Without Family
+T0206,China,48,Other,Business,Countryside,8,1062,Hotel,11,143,291,40,2489.266739,With Family
+T0207,Germany,34,Female,Business,Mountain,15,2447,Hostel,10,429,298,74,4788.144614,With Family
+T0208,India,63,Female,Leisure,Mountain,4,1793,Resort,4,416,61,170,2711.439298,Without Family
+T0209,USA,28,Female,Education,City,21,1214,Resort,8,109,102,101,3038.938221,With Family
+T0210,Canada,53,Male,Leisure,Adventure Park,23,3139,Hostel,12,205,67,77,1653.304194,Without Family
+T0211,India,22,Other,Leisure,City,7,700,Resort,10,248,151,78,4022.822364,With Family
+T0212,India,75,Other,Education,Beach,18,587,Hostel,1,241,254,46,5010.583003,Without Family
+T0213,UK,72,Male,Education,Countryside,27,3591,Hostel,2,337,137,154,3545.684547,With Family
+T0214,Canada,72,Other,Medical,Mountain,30,334,Hostel,10,169,244,189,1393.985604,With Family
+T0215,Canada,48,Male,Business,Countryside,25,746,Resort,7,421,93,40,3728.428016,Without Family
+T0216,France,33,Male,Education,Adventure Park,29,2447,Airbnb,5,260,187,175,1654.186988,With Family
+T0217,USA,69,Male,Education,Beach,7,4297,Hotel,5,405,233,79,757.129768,With Family
+T0218,France,71,Male,Medical,Mountain,8,1196,Hotel,5,396,88,124,2149.119106,Without Family
+T0219,Germany,27,Other,Business,Countryside,22,1882,Hotel,4,416,46,152,1911.649724,With Family
+T0220,China,22,Male,Medical,City,25,2813,Hotel,5,236,261,163,4046.271597,Without Family
+T0221,Germany,58,Male,Leisure,Mountain,29,2771,Airbnb,2,260,287,154,4596.685833,Without Family
+T0222,France,57,Other,Education,Beach,30,3097,Airbnb,5,249,111,119,1588.834101,Without Family
+T0223,Germany,75,Other,Business,Countryside,28,3626,Resort,10,382,266,116,3490.992554,With Family
+T0224,Australia,30,Female,Medical,Adventure Park,30,2065,Airbnb,10,129,232,124,3373.562111,Without Family
+T0225,Canada,60,Other,Medical,City,25,2674,Airbnb,3,150,94,56,1479.237693,With Family
+T0226,France,32,Other,Education,Mountain,23,4977,Hostel,5,163,208,160,4629.849286,With Family
+T0227,Australia,43,Other,Medical,Adventure Park,20,4471,Resort,11,384,40,148,2162.356959,With Family
+T0228,France,53,Other,Medical,Adventure Park,28,1556,Airbnb,7,173,298,174,5384.062344,Without Family
+T0229,Canada,36,Male,Education,Countryside,6,1322,Hostel,8,211,224,184,2944.910962,With Family
+T0230,UK,41,Female,Education,Adventure Park,14,1609,Hotel,2,441,175,75,3574.006262,With Family
+T0231,India,18,Female,Education,Mountain,28,2827,Hotel,7,297,99,140,4921.129246,Without Family
+T0232,Germany,23,Female,Leisure,Adventure Park,15,3927,Resort,7,355,218,175,3348.879767,With Family
+T0233,China,39,Male,Leisure,City,9,4122,Hostel,10,195,34,43,1266.849892,Without Family
+T0234,USA,69,Other,Education,Adventure Park,29,1129,Hostel,12,144,236,152,5088.386625,With Family
+T0235,Germany,65,Female,Leisure,Adventure Park,25,4347,Resort,7,227,245,105,1666.698991,With Family
+T0236,Australia,65,Other,Leisure,Countryside,6,3451,Hotel,4,412,148,151,3727.859076,With Family
+T0237,Germany,47,Other,Education,Adventure Park,18,4281,Hotel,6,333,49,63,3604.878216,With Family
+T0238,UK,40,Female,Leisure,City,25,544,Airbnb,9,222,124,155,765.1527534,With Family
+T0239,Australia,56,Other,Leisure,City,11,3912,Hotel,9,80,255,47,1117.769021,Without Family
+T0240,France,75,Female,Business,City,14,2495,Hotel,5,321,88,154,2048.493304,Without Family
+T0241,France,26,Other,Leisure,Countryside,12,2816,Resort,2,349,249,172,2795.124093,With Family
+T0242,China,70,Female,Medical,Countryside,13,1800,Resort,10,304,155,156,4865.14965,Without Family
+T0243,Australia,60,Other,Business,Countryside,17,3738,Airbnb,8,486,207,47,1872.05427,With Family
+T0244,USA,64,Female,Leisure,Adventure Park,27,3942,Airbnb,11,444,242,182,936.2887145,Without Family
+T0245,Canada,64,Female,Education,Beach,15,4343,Hostel,12,217,171,81,4598.908397,With Family
+T0246,Australia,74,Male,Education,Countryside,18,393,Airbnb,11,160,165,84,4793.186561,Without Family
+T0247,Canada,35,Male,Leisure,Mountain,28,980,Resort,6,421,155,140,4387.561026,With Family
+T0248,UK,47,Other,Medical,Countryside,14,3196,Resort,3,186,113,152,2622.486461,With Family
+T0249,Canada,41,Other,Education,Beach,9,1827,Airbnb,6,339,94,161,1262.457805,Without Family
+T0250,Germany,28,Male,Medical,Adventure Park,29,1960,Hostel,10,400,71,122,955.1830793,With Family
+T0251,France,71,Female,Medical,Beach,10,3137,Hostel,6,73,89,47,2843.046814,With Family
+T0252,China,53,Other,Business,Countryside,23,3274,Hotel,7,151,94,150,3973.695946,With Family
+T0253,India,36,Other,Medical,City,13,203,Airbnb,6,325,233,173,3945.918345,With Family
+T0254,Australia,44,Other,Business,Adventure Park,27,2835,Hostel,2,455,74,173,5278.504441,With Family
+T0255,France,58,Male,Leisure,City,14,1929,Hotel,9,190,47,173,3993.286163,With Family
+T0256,China,47,Female,Medical,Beach,9,3891,Hotel,4,114,245,182,5160.668655,With Family
+T0257,Germany,69,Male,Business,Adventure Park,6,899,Resort,11,422,148,92,1534.280506,Without Family
+T0258,UK,53,Male,Leisure,Mountain,12,883,Hostel,5,426,65,54,2162.94498,Without Family
+T0259,China,65,Female,Leisure,Countryside,9,2287,Hotel,5,110,259,68,1954.341656,With Family
+T0260,Canada,30,Male,Business,Mountain,7,2302,Airbnb,10,208,71,144,2049.493246,Without Family
+T0261,Germany,43,Female,Medical,Countryside,8,3250,Resort,6,259,78,28,5135.355419,Without Family
+T0262,Germany,24,Male,Education,Adventure Park,29,3767,Airbnb,5,372,48,135,2141.307486,Without Family
+T0263,France,25,Male,Leisure,City,18,4855,Resort,6,400,171,114,3573.877207,Without Family
+T0264,Germany,69,Male,Business,Adventure Park,18,1654,Resort,2,223,221,197,1541.511241,With Family
+T0265,Australia,63,Male,Leisure,City,18,763,Hostel,1,74,282,72,5365.902449,With Family
+T0266,Germany,54,Other,Education,City,8,3789,Airbnb,11,85,50,115,1876.056336,Without Family
+T0267,Australia,23,Other,Education,Adventure Park,26,1118,Hotel,5,484,50,83,3376.135113,Without Family
+T0268,China,75,Other,Medical,Countryside,25,647,Hostel,9,132,98,108,4923.040757,Without Family
+T0269,India,30,Female,Business,Adventure Park,24,2452,Hotel,6,128,85,123,1386.978972,With Family
+T0270,Canada,58,Male,Education,Beach,13,1735,Resort,12,405,56,48,4880.321433,With Family
+T0271,Canada,37,Other,Medical,City,9,414,Hotel,8,370,51,153,2654.231016,With Family
+T0272,Australia,53,Female,Education,City,13,2482,Hostel,2,469,220,168,1475.932331,With Family
+T0273,Canada,71,Other,Education,City,24,3223,Resort,1,115,282,99,4102.910408,With Family
+T0274,UK,34,Male,Medical,Beach,26,2221,Hostel,5,439,87,189,1789.504832,With Family
+T0275,USA,31,Other,Leisure,Beach,17,1022,Airbnb,3,410,115,60,2046.724438,With Family
+T0276,France,53,Female,Medical,Adventure Park,6,2436,Hotel,11,348,237,53,2374.76944,Without Family
+T0277,Germany,71,Male,Education,Countryside,14,3435,Hostel,8,191,171,145,5479.942237,Without Family
+T0278,Germany,57,Female,Medical,City,28,653,Hotel,1,356,126,199,3049.63451,Without Family
+T0279,Canada,75,Other,Education,City,24,4955,Hostel,1,416,105,190,906.6592669,With Family
+T0280,Germany,74,Male,Medical,Mountain,2,1835,Airbnb,7,91,300,159,4694.196227,Without Family
+T0281,UK,73,Male,Leisure,Adventure Park,29,4927,Airbnb,7,52,82,85,2876.022117,Without Family
+T0282,China,32,Male,Leisure,Mountain,13,4997,Hotel,8,71,224,146,1576.252502,Without Family
+T0283,UK,73,Female,Business,Countryside,18,2303,Hostel,6,225,266,187,4853.611718,Without Family
+T0284,India,75,Male,Medical,Adventure Park,21,1127,Hostel,4,384,202,159,4930.114793,With Family
+T0285,UK,65,Male,Leisure,City,17,582,Hotel,11,162,199,21,1392.479931,Without Family
+T0286,USA,66,Other,Business,Countryside,12,3205,Hostel,2,460,98,21,2858.532829,Without Family
+T0287,Canada,75,Other,Education,Beach,19,4506,Hostel,10,70,277,21,1056.16246,Without Family
+T0288,UK,61,Male,Medical,Mountain,2,2707,Hostel,7,247,113,188,3343.255962,Without Family
+T0289,UK,41,Male,Business,Countryside,16,1355,Hostel,6,157,44,190,2345.213998,With Family
+T0290,Canada,41,Other,Leisure,Countryside,19,4604,Hostel,9,443,218,132,4009.960773,Without Family
+T0291,Australia,40,Female,Leisure,Countryside,4,4403,Airbnb,12,284,180,158,4816.48151,Without Family
+T0292,Canada,23,Male,Business,Countryside,30,263,Airbnb,4,485,173,36,1396.239431,With Family
+T0293,UK,54,Other,Education,Countryside,3,4833,Hotel,7,451,103,118,992.4207486,With Family
+T0294,India,51,Male,Medical,Mountain,10,4876,Hotel,3,345,49,145,3954.647729,With Family
+T0295,Australia,73,Female,Medical,Mountain,29,3661,Hotel,11,258,283,119,1214.031604,Without Family
+T0296,Australia,26,Male,Medical,Adventure Park,15,4223,Hotel,5,138,276,150,940.3829269,Without Family
+T0297,Canada,32,Female,Business,Beach,11,3245,Hotel,12,381,32,159,2986.053448,Without Family
+T0298,France,50,Male,Education,Adventure Park,11,923,Resort,8,180,260,161,1621.654333,Without Family
+T0299,UK,23,Male,Education,Adventure Park,16,360,Airbnb,6,424,210,110,3636.412608,With Family
+T0300,Australia,26,Male,Education,Countryside,30,4592,Hostel,10,412,80,101,3867.469228,With Family
+T0301,Germany,73,Other,Business,Beach,17,3022,Hostel,6,382,261,161,3166.50506,With Family
+T0302,India,19,Other,Medical,Beach,25,3354,Airbnb,5,57,109,20,2388.403821,Without Family
+T0303,India,58,Male,Business,City,21,558,Hotel,12,73,214,43,2203.620324,Without Family
+T0304,India,74,Male,Education,Mountain,10,3960,Hostel,7,472,78,151,2356.599599,Without Family
+T0305,USA,38,Other,Medical,Adventure Park,17,3742,Resort,3,270,173,127,3246.063583,With Family
+T0306,Australia,18,Female,Medical,Adventure Park,18,1488,Resort,6,76,73,78,4256.577449,With Family
+T0307,USA,20,Female,Medical,Beach,20,3134,Hotel,4,209,145,159,1843.780363,Without Family
+T0308,China,64,Other,Education,Adventure Park,15,3084,Hostel,4,381,151,134,4181.629183,Without Family
+T0309,Canada,69,Other,Business,Countryside,29,4024,Hostel,7,184,122,162,2838.415786,Without Family
+T0310,France,32,Male,Leisure,Countryside,24,2689,Hostel,1,416,231,192,5388.103334,Without Family
+T0311,Germany,21,Female,Business,Beach,28,2145,Airbnb,1,442,93,104,2010.334226,Without Family
+T0312,China,69,Other,Medical,Adventure Park,25,3706,Airbnb,11,165,135,172,3759.402063,Without Family
+T0313,Australia,18,Male,Education,Beach,2,3001,Hotel,7,441,224,20,3197.652561,With Family
+T0314,USA,34,Other,Business,Beach,23,2746,Airbnb,10,259,61,94,5192.673145,With Family
+T0315,Australia,52,Male,Medical,Adventure Park,15,963,Hostel,12,106,69,56,1223.520654,Without Family
+T0316,UK,58,Other,Medical,Adventure Park,15,3718,Hostel,11,346,30,51,4772.797398,With Family
+T0317,India,32,Male,Education,Adventure Park,18,538,Resort,7,168,140,96,4544.538611,Without Family
+T0318,China,62,Female,Medical,Adventure Park,7,3026,Hostel,11,50,73,79,3788.49896,With Family
+T0319,Australia,43,Female,Business,Countryside,7,3306,Resort,5,121,171,168,3783.518301,With Family
+T0320,USA,44,Female,Education,Beach,19,879,Hotel,10,485,41,104,1113.096842,With Family
+T0321,Canada,44,Female,Leisure,Countryside,19,3517,Airbnb,5,398,183,171,3336.571078,Without Family
+T0322,Australia,66,Female,Leisure,Adventure Park,9,1229,Airbnb,1,486,91,45,2968.288043,With Family
+T0323,Australia,32,Female,Business,Countryside,9,3923,Airbnb,4,470,247,57,1099.624892,With Family
+T0324,Canada,70,Female,Medical,Adventure Park,20,1987,Resort,7,109,130,115,4539.540782,Without Family
+T0325,India,18,Other,Business,Mountain,6,820,Hostel,11,447,244,121,1655.8946,With Family
+T0326,Germany,32,Male,Education,Mountain,28,2108,Hotel,12,488,267,193,933.4288144,With Family
+T0327,Germany,48,Female,Leisure,Countryside,5,4369,Hostel,3,55,112,143,3785.497625,With Family
+T0328,Canada,21,Male,Leisure,Countryside,2,4299,Hotel,11,123,96,26,1268.986762,With Family
+T0329,Canada,25,Male,Medical,Adventure Park,6,1857,Hotel,1,172,101,88,5012.108577,Without Family
+T0330,France,63,Female,Medical,Beach,14,4737,Resort,4,296,262,155,1100.793475,Without Family
+T0331,India,68,Female,Education,Countryside,26,4575,Hostel,1,433,209,188,4692.982869,With Family
+T0332,Germany,22,Other,Business,Adventure Park,29,1447,Resort,11,411,155,66,3309.001317,Without Family
+T0333,UK,42,Other,Leisure,Countryside,30,1604,Resort,2,79,78,102,2618.308984,Without Family
+T0334,USA,41,Female,Education,City,26,2725,Hotel,2,430,219,141,3188.253677,Without Family
+T0335,Germany,31,Male,Education,Adventure Park,4,4548,Airbnb,11,155,230,139,1866.213689,With Family
+T0336,China,42,Male,Medical,Beach,22,1980,Airbnb,2,71,102,53,1018.416036,With Family
+T0337,Canada,62,Male,Education,Adventure Park,7,428,Airbnb,9,96,34,180,928.5880386,Without Family
+T0338,Canada,22,Male,Education,Adventure Park,11,4780,Airbnb,12,265,181,195,2364.455857,Without Family
+T0339,China,38,Other,Medical,Adventure Park,8,3823,Hotel,5,328,261,71,3226.284378,With Family
+T0340,UK,38,Female,Education,City,29,3930,Airbnb,12,352,62,107,2436.484975,With Family
+T0341,China,73,Other,Education,Countryside,3,1535,Resort,5,112,109,130,3002.342141,Without Family
+T0342,UK,34,Other,Medical,Beach,17,561,Airbnb,6,219,31,73,2894.700154,With Family
+T0343,France,23,Male,Business,Beach,16,3626,Hotel,12,314,190,69,1733.623008,With Family
+T0344,UK,42,Male,Business,Beach,15,2429,Hostel,1,318,127,58,5159.54736,With Family
+T0345,France,33,Other,Education,City,7,1278,Hotel,2,253,79,33,2895.10778,With Family
+T0346,UK,56,Male,Business,Adventure Park,18,1135,Hostel,3,444,280,64,5021.030179,With Family
+T0347,UK,42,Female,Education,Beach,6,964,Resort,5,121,115,144,2983.560598,With Family
+T0348,Canada,27,Female,Business,City,22,1561,Hotel,12,205,234,131,3798.858283,With Family
+T0349,France,70,Female,Business,Adventure Park,30,1176,Hotel,11,352,282,102,2233.462941,Without Family
+T0350,India,31,Male,Leisure,Mountain,2,856,Airbnb,11,263,160,75,4381.319297,Without Family
+T0351,USA,61,Female,Leisure,Countryside,30,1732,Hostel,9,358,167,129,3014.739869,Without Family
+T0352,France,19,Male,Leisure,Adventure Park,23,1625,Airbnb,7,127,183,25,3887.788601,Without Family
+T0353,USA,49,Other,Education,Beach,22,697,Resort,7,333,210,130,1664.819046,With Family
+T0354,Germany,71,Female,Leisure,Adventure Park,26,4345,Hotel,12,500,242,81,4124.812653,Without Family
+T0355,Germany,71,Male,Medical,Beach,25,2771,Hotel,6,198,93,197,4557.990226,With Family
+T0356,India,51,Male,Education,Adventure Park,22,4692,Hostel,10,210,129,195,2742.388398,With Family
+T0357,China,43,Female,Medical,City,14,2060,Hotel,8,81,182,151,1409.777164,Without Family
+T0358,India,72,Male,Medical,Mountain,9,393,Hostel,3,339,150,115,1725.145124,Without Family
+T0359,Australia,58,Female,Medical,Countryside,16,3684,Resort,2,193,115,100,4160.191468,With Family
+T0360,Australia,71,Male,Education,Adventure Park,21,1547,Hostel,1,59,289,54,2477.202696,Without Family
+T0361,Germany,29,Female,Education,City,29,2535,Airbnb,3,79,57,71,1087.936514,With Family
+T0362,USA,31,Male,Business,Countryside,23,2414,Hostel,10,291,124,152,4968.410288,Without Family
+T0363,China,18,Male,Business,City,7,3858,Resort,2,320,63,122,4207.151375,Without Family
+T0364,China,75,Male,Leisure,Adventure Park,10,2459,Hostel,9,365,36,78,4665.059043,Without Family
+T0365,France,22,Male,Medical,Adventure Park,4,3170,Hotel,12,134,120,115,5500.00926,Without Family
+T0366,China,57,Other,Business,Countryside,30,3494,Airbnb,9,143,156,82,4889.157502,Without Family
+T0367,UK,75,Other,Medical,Adventure Park,13,4093,Hostel,7,57,166,185,988.2902485,Without Family
+T0368,UK,72,Male,Medical,Countryside,8,2614,Hotel,5,455,186,122,3841.427884,Without Family
+T0369,China,69,Female,Business,Beach,6,3407,Hotel,5,461,288,121,5322.521694,Without Family
+T0370,France,68,Male,Education,Beach,12,1848,Airbnb,6,168,57,197,2266.227812,With Family
+T0371,China,18,Female,Business,Adventure Park,14,3656,Airbnb,11,405,189,98,4366.531458,With Family
+T0372,Germany,31,Male,Business,Adventure Park,14,2392,Airbnb,11,400,233,120,4724.568484,Without Family
+T0373,UK,19,Female,Education,Mountain,16,343,Resort,1,107,228,171,5496.952083,With Family
+T0374,Germany,75,Male,Leisure,Mountain,24,1086,Hotel,8,116,219,199,2406.869621,With Family
+T0375,Canada,51,Female,Medical,Adventure Park,4,3116,Hostel,4,160,72,180,935.9718933,With Family
+T0376,USA,32,Other,Medical,Countryside,22,4382,Hotel,2,294,71,196,2313.194037,Without Family
+T0377,Canada,28,Male,Medical,Countryside,14,2381,Hotel,7,399,116,197,2752.466656,Without Family
+T0378,China,63,Male,Business,Mountain,14,3301,Airbnb,7,299,211,59,1560.380766,With Family
+T0379,Australia,21,Female,Business,Beach,19,1871,Hostel,12,115,90,174,4325.671847,Without Family
+T0380,Canada,18,Male,Leisure,Beach,8,4198,Airbnb,4,444,74,32,4199.427087,Without Family
+T0381,UK,52,Other,Business,Mountain,15,3863,Resort,9,451,104,34,3848.240525,Without Family
+T0382,India,39,Female,Leisure,Mountain,17,4945,Hotel,9,154,169,26,4719.330893,Without Family
+T0383,USA,62,Female,Education,Countryside,19,4137,Resort,4,252,239,183,4178.981964,With Family
+T0384,Australia,56,Female,Leisure,Beach,6,2640,Resort,7,248,61,151,4026.384047,With Family
+T0385,USA,55,Other,Medical,Countryside,6,1796,Airbnb,10,416,169,191,1440.366258,Without Family
+T0386,Germany,71,Other,Education,City,21,2431,Hostel,4,360,198,121,1085.721976,Without Family
+T0387,USA,74,Male,Leisure,Mountain,7,1758,Hostel,2,52,225,181,4062.176234,Without Family
+T0388,India,39,Other,Business,City,7,1369,Hotel,2,489,146,197,911.3772199,With Family
+T0389,France,65,Other,Leisure,City,30,795,Resort,4,423,54,91,1715.391429,With Family
+T0390,France,19,Other,Medical,Beach,9,4957,Airbnb,11,380,220,200,4994.826159,Without Family
+T0391,USA,54,Male,Medical,Countryside,7,2409,Resort,3,397,218,197,3623.269698,Without Family
+T0392,China,26,Male,Leisure,Mountain,28,4945,Airbnb,4,63,209,47,1069.796516,With Family
+T0393,Germany,45,Male,Medical,City,17,346,Hotel,12,493,63,96,5152.489045,Without Family
+T0394,China,23,Female,Medical,Mountain,7,3823,Hostel,7,262,110,169,1570.581078,With Family
+T0395,China,32,Other,Education,Countryside,28,3986,Hostel,11,291,37,196,1829.133692,With Family
+T0396,USA,45,Other,Business,Adventure Park,10,1061,Airbnb,8,250,66,21,3118.709162,With Family
+T0397,UK,56,Female,Leisure,Countryside,24,308,Hostel,6,395,67,33,1828.128771,Without Family
+T0398,Canada,61,Female,Education,Adventure Park,13,2313,Hotel,5,263,282,107,5021.47745,With Family
+T0399,Germany,43,Female,Education,Countryside,5,2997,Hostel,10,136,157,40,4646.785682,Without Family
+T0400,Canada,66,Male,Medical,Countryside,13,2060,Hostel,6,451,100,72,1217.327103,With Family
+T0401,India,54,Female,Education,Mountain,29,1985,Hostel,10,460,148,82,3208.877087,Without Family
+T0402,France,75,Male,Business,Beach,16,4899,Airbnb,9,162,199,136,4068.464331,With Family
+T0403,Canada,19,Male,Education,Beach,26,2367,Resort,7,273,186,150,5104.440045,Without Family
+T0404,India,32,Other,Education,Mountain,17,1101,Hostel,5,311,103,140,3231.970675,Without Family
+T0405,India,30,Other,Leisure,City,17,3904,Airbnb,9,272,41,60,1976.192472,With Family
+T0406,China,37,Other,Business,Mountain,16,3687,Hotel,10,431,244,56,1173.800167,With Family
+T0407,USA,29,Male,Education,Mountain,18,4044,Resort,6,402,31,22,3619.657087,Without Family
+T0408,China,38,Male,Leisure,City,10,2935,Hotel,11,166,59,30,2937.709008,Without Family
+T0409,France,31,Female,Medical,Beach,18,4733,Hotel,12,370,111,60,3846.748736,Without Family
+T0410,China,42,Male,Medical,Mountain,17,2753,Hotel,8,111,177,110,3251.955233,With Family
+T0411,France,20,Male,Medical,Beach,10,2195,Hotel,11,252,283,61,4165.857901,With Family
+T0412,Canada,19,Male,Education,Mountain,11,2786,Airbnb,3,101,207,136,3437.135526,With Family
+T0413,USA,36,Female,Medical,Countryside,23,909,Hostel,5,209,288,85,5248.793116,Without Family
+T0414,Germany,29,Female,Medical,Adventure Park,7,4903,Hostel,10,418,56,65,5293.735542,With Family
+T0415,India,35,Female,Medical,City,16,2027,Hostel,8,314,292,41,1687.87016,Without Family
+T0416,China,57,Other,Medical,Countryside,30,4872,Airbnb,8,143,245,104,3445.849349,With Family
+T0417,UK,28,Female,Business,Beach,6,4508,Hostel,2,345,251,181,865.3481443,Without Family
+T0418,Germany,60,Other,Medical,City,27,3570,Resort,6,307,42,76,2119.157365,With Family
+T0419,Australia,40,Male,Medical,City,21,1404,Resort,8,185,111,127,5022.661382,Without Family
+T0420,Germany,58,Other,Medical,Mountain,19,1531,Resort,3,445,253,134,3859.937619,With Family
+T0421,China,56,Other,Leisure,Beach,20,4568,Hostel,12,147,269,55,2232.927323,With Family
+T0422,China,42,Other,Business,Mountain,30,3017,Resort,1,104,179,87,4426.665512,With Family
+T0423,USA,46,Male,Education,City,12,2625,Hotel,11,395,201,27,4063.732184,With Family
+T0424,Canada,56,Other,Leisure,City,19,4458,Hostel,7,236,239,189,3491.935703,With Family
+T0425,China,74,Male,Education,Countryside,7,4547,Airbnb,7,416,39,63,4632.06254,With Family
+T0426,UK,22,Male,Education,Adventure Park,23,1956,Airbnb,2,340,52,48,758.7018779,Without Family
+T0427,USA,75,Male,Education,Adventure Park,17,3459,Resort,2,134,259,117,1669.53226,With Family
+T0428,Canada,43,Other,Business,Mountain,25,3735,Resort,8,403,197,156,3275.998785,With Family
+T0429,USA,72,Male,Business,Mountain,18,246,Airbnb,9,319,211,149,3091.124174,Without Family
+T0430,Canada,46,Other,Medical,Adventure Park,13,4404,Resort,8,424,41,79,2836.308812,Without Family
+T0431,China,22,Female,Medical,City,7,398,Hostel,12,430,141,171,4973.817777,Without Family
+T0432,Australia,43,Male,Leisure,Mountain,30,3176,Hostel,2,281,161,182,1259.740665,Without Family
+T0433,China,23,Female,Business,Beach,2,847,Airbnb,8,473,88,62,2278.163518,Without Family
+T0434,UK,74,Other,Business,Countryside,7,308,Resort,7,239,252,195,4860.830007,With Family
+T0435,Germany,53,Female,Medical,Countryside,20,4379,Hostel,2,302,296,74,1840.590584,Without Family
+T0436,Germany,45,Female,Leisure,Mountain,14,3757,Resort,11,450,59,67,3586.863063,Without Family
+T0437,India,53,Male,Education,Beach,9,3484,Airbnb,3,166,74,66,4193.919914,Without Family
+T0438,China,19,Male,Business,Adventure Park,9,1150,Hotel,8,308,93,89,2456.083997,With Family
+T0439,USA,58,Other,Business,Mountain,8,3367,Airbnb,12,435,288,77,763.6979611,With Family
+T0440,India,20,Female,Leisure,City,29,2344,Airbnb,6,259,40,98,2170.22144,With Family
+T0441,India,70,Female,Leisure,Countryside,2,3655,Hotel,10,170,135,142,1895.333077,Without Family
+T0442,India,32,Other,Leisure,City,2,2968,Hotel,5,91,184,145,2281.605875,With Family
+T0443,UK,46,Male,Education,Mountain,21,361,Hostel,11,65,241,117,3005.56401,Without Family
+T0444,France,71,Male,Education,Mountain,13,3149,Hotel,1,295,235,57,1382.885999,Without Family
+T0445,Germany,42,Female,Business,Adventure Park,21,490,Hostel,10,121,249,127,3309.094195,With Family
+T0446,Germany,52,Male,Medical,Adventure Park,24,1934,Hostel,12,201,136,116,1505.639997,Without Family
+T0447,Germany,61,Male,Leisure,Beach,20,1823,Hostel,6,173,94,196,871.8924587,Without Family
+T0448,India,30,Male,Medical,Countryside,22,2723,Hotel,6,164,81,83,3639.794169,Without Family
+T0449,France,53,Male,Education,Mountain,17,1935,Resort,6,84,122,183,2150.540116,With Family
+T0450,Germany,60,Other,Business,Mountain,19,2029,Resort,8,498,177,107,4961.533167,With Family
+T0451,India,50,Male,Medical,City,29,902,Hostel,7,337,219,117,1698.036233,With Family
+T0452,UK,75,Female,Business,Adventure Park,27,3405,Airbnb,3,228,165,199,1736.239977,Without Family
+T0453,USA,71,Other,Leisure,Beach,28,2181,Hostel,5,464,226,148,4237.031585,With Family
+T0454,Canada,34,Other,Medical,Countryside,6,582,Hotel,3,426,162,72,1363.976797,Without Family
+T0455,India,59,Other,Leisure,City,23,2695,Hostel,8,374,199,168,1933.925226,With Family
+T0456,Canada,60,Female,Education,Adventure Park,8,325,Airbnb,10,144,253,84,2975.397906,Without Family
+T0457,Australia,70,Other,Medical,City,26,4194,Hostel,6,243,238,126,1328.551591,Without Family
+T0458,China,73,Female,Education,Beach,10,1377,Hostel,6,395,159,185,3361.244245,Without Family
+T0459,Canada,70,Male,Education,Mountain,8,1916,Hostel,5,207,210,53,747.9958828,With Family
+T0460,India,75,Male,Business,Countryside,3,4742,Resort,6,364,187,75,1711.757817,With Family
+T0461,USA,73,Male,Leisure,City,22,2166,Hostel,7,75,135,117,774.9265879,With Family
+T0462,UK,62,Male,Business,Mountain,15,4260,Airbnb,3,114,85,155,1026.748017,Without Family
+T0463,USA,29,Other,Business,Mountain,26,3857,Hostel,12,351,148,121,1427.571209,With Family
+T0464,India,20,Other,Medical,Countryside,30,1920,Resort,4,93,212,60,3823.778672,Without Family
+T0465,China,60,Other,Business,Mountain,12,1604,Airbnb,6,56,271,65,2436.855654,Without Family
+T0466,USA,42,Female,Education,City,11,2963,Resort,12,276,216,67,3023.686032,With Family
+T0467,France,21,Other,Business,Countryside,6,3148,Airbnb,12,315,211,58,4031.60139,Without Family
+T0468,France,24,Other,Education,City,10,3444,Resort,10,57,245,180,2517.664938,Without Family
+T0469,Australia,36,Male,Business,Adventure Park,24,2128,Resort,3,182,91,94,1160.113028,Without Family
+T0470,USA,60,Other,Leisure,Countryside,9,1002,Airbnb,6,379,60,157,1299.560032,Without Family
+T0471,India,51,Male,Leisure,City,25,1541,Airbnb,10,494,155,191,1534.450794,With Family
+T0472,Australia,39,Other,Leisure,Adventure Park,15,4444,Hostel,10,337,64,164,1687.9241,With Family
+T0473,France,74,Female,Leisure,Countryside,3,1029,Hostel,5,418,51,103,3643.768984,With Family
+T0474,China,45,Other,Medical,City,7,1379,Airbnb,4,192,165,139,3195.923401,Without Family
+T0475,India,20,Male,Medical,City,7,1555,Resort,3,315,286,70,4671.965436,Without Family
+T0476,France,36,Male,Business,City,10,2237,Airbnb,8,452,105,142,1241.519988,Without Family
+T0477,India,28,Male,Medical,Beach,21,3351,Airbnb,5,85,219,164,5150.603332,Without Family
+T0478,USA,68,Male,Business,City,8,1983,Hostel,9,467,45,81,766.2767766,Without Family
+T0479,Germany,45,Male,Education,City,18,917,Hotel,8,345,169,87,1074.190924,Without Family
+T0480,China,46,Male,Education,Adventure Park,8,1843,Hostel,10,486,230,194,4597.501735,Without Family
+T0481,Canada,37,Other,Business,City,22,3850,Hotel,7,316,289,173,5255.438979,Without Family
+T0482,China,30,Male,Medical,City,12,3441,Hotel,12,234,40,145,5089.083962,With Family
+T0483,UK,56,Male,Business,Adventure Park,9,4806,Hotel,5,215,248,41,2936.878835,Without Family
+T0484,UK,33,Other,Business,City,7,4048,Airbnb,4,375,99,23,1328.558497,With Family
+T0485,France,33,Male,Leisure,Beach,30,3239,Hotel,9,137,259,39,1882.491189,Without Family
+T0486,Canada,52,Male,Medical,City,18,4044,Hotel,9,332,42,119,4454.838079,Without Family
+T0487,UK,26,Other,Business,Countryside,14,2546,Resort,8,71,67,61,4977.339061,With Family
+T0488,Canada,27,Male,Business,Countryside,12,4422,Hotel,6,163,300,157,4692.848232,With Family
+T0489,India,22,Other,Leisure,Adventure Park,29,1777,Resort,12,145,238,84,4697.027476,Without Family
+T0490,China,33,Female,Business,Adventure Park,18,4654,Hostel,2,59,69,174,3165.164035,With Family
+T0491,China,70,Male,Medical,Mountain,21,3518,Airbnb,11,119,294,61,1685.589111,With Family
+T0492,Germany,68,Female,Leisure,Beach,28,2978,Hostel,3,468,179,159,4845.997896,With Family
+T0493,Australia,73,Other,Education,City,23,3377,Hostel,7,96,140,132,3337.134103,Without Family
+T0494,Germany,72,Female,Leisure,Countryside,29,3455,Hostel,4,58,201,157,1094.446011,With Family
+T0495,Australia,51,Male,Medical,Countryside,24,895,Resort,6,59,168,72,5474.928137,With Family
+T0496,India,39,Male,Medical,Adventure Park,13,867,Airbnb,9,335,297,95,3887.193558,With Family
+T0497,USA,60,Female,Business,Countryside,7,585,Airbnb,2,182,103,199,2139.617897,Without Family
+T0498,Canada,41,Other,Medical,City,17,3271,Resort,4,480,88,87,4480.137231,With Family
+T0499,UK,38,Female,Business,Mountain,24,4181,Hostel,11,229,262,114,1547.719877,With Family
+T0500,Germany,54,Male,Business,Beach,7,3117,Hostel,11,128,149,109,4404.969879,With Family
+T0501,China,25,Male,Leisure,City,15,2887,Hostel,3,337,66,98,2300.398052,With Family
+T0502,USA,29,Female,Medical,Adventure Park,30,627,Hostel,1,367,192,198,3245.389874,Without Family
+T0503,UK,72,Male,Leisure,Countryside,3,3928,Resort,4,401,102,150,4463.300672,With Family
+T0504,France,33,Other,Medical,Beach,21,1755,Airbnb,4,327,182,47,3638.231829,Without Family
+T0505,France,38,Other,Business,Countryside,26,3157,Airbnb,1,274,229,101,4089.388736,With Family
+T0506,Canada,47,Female,Medical,Mountain,13,1785,Hotel,6,374,188,22,2126.828293,Without Family
+T0507,Australia,43,Male,Education,City,6,709,Hostel,9,225,89,63,1133.793527,Without Family
+T0508,Canada,63,Female,Education,Mountain,15,4801,Resort,1,180,161,34,1879.509346,Without Family
+T0509,India,24,Male,Business,Mountain,6,2909,Hostel,11,220,203,191,4842.006053,Without Family
+T0510,Australia,37,Female,Business,City,4,2641,Resort,1,414,51,35,1794.69454,Without Family
+T0511,UK,44,Male,Medical,Beach,22,2826,Airbnb,12,452,213,185,4690.936617,With Family
+T0512,Australia,23,Male,Leisure,City,2,3132,Resort,9,60,81,175,4195.426449,With Family
+T0513,Germany,48,Other,Medical,Countryside,15,1184,Resort,9,144,110,164,5162.584527,Without Family
+T0514,Australia,75,Female,Leisure,Mountain,24,3624,Hotel,8,431,158,140,756.8231613,Without Family
+T0515,China,40,Male,Leisure,Mountain,24,2724,Resort,2,269,177,146,4682.96783,Without Family
+T0516,Canada,28,Female,Education,Countryside,12,4122,Resort,10,313,277,145,3657.10094,With Family
+T0517,Australia,65,Male,Leisure,Mountain,13,4102,Resort,10,309,190,53,4679.044992,Without Family
+T0518,France,32,Male,Education,Mountain,16,2845,Hostel,4,231,275,143,1918.263889,With Family
+T0519,Germany,65,Other,Business,Beach,18,2187,Hostel,3,313,63,144,2684.785408,With Family
+T0520,Australia,41,Male,Leisure,Countryside,13,830,Airbnb,4,356,61,75,1820.071777,Without Family
+T0521,China,37,Male,Medical,Beach,10,896,Resort,11,69,230,174,5400.455546,With Family
+T0522,China,69,Other,Business,City,24,826,Resort,2,448,34,195,4981.256629,With Family
+T0523,UK,74,Female,Business,Beach,7,4386,Hotel,12,411,114,23,3025.116487,Without Family
+T0524,France,34,Female,Business,Mountain,29,444,Hostel,8,299,213,176,4010.221037,With Family
+T0525,Canada,21,Male,Education,Mountain,13,1638,Hotel,12,431,155,140,4364.839187,With Family
+T0526,India,34,Female,Education,City,24,2396,Resort,10,73,243,140,5108.820097,With Family
+T0527,India,56,Female,Education,City,25,1404,Hotel,5,357,287,61,5430.245527,With Family
+T0528,France,51,Female,Leisure,Beach,25,3859,Resort,4,107,183,179,5481.897184,Without Family
+T0529,Canada,63,Female,Education,Countryside,4,1598,Resort,11,498,96,149,3144.086446,With Family
+T0530,India,41,Female,Business,City,30,800,Resort,9,277,138,145,4738.096475,With Family
+T0531,Germany,71,Male,Education,City,25,448,Hotel,3,410,172,74,3429.96639,Without Family
+T0532,USA,59,Male,Business,Beach,21,4014,Resort,6,449,203,27,3420.429133,Without Family
+T0533,India,24,Other,Education,Countryside,6,4648,Airbnb,1,450,168,160,4098.341178,Without Family
+T0534,Australia,61,Other,Leisure,Beach,10,4424,Resort,8,246,261,135,1104.811888,With Family
+T0535,China,60,Female,Business,City,2,2262,Resort,3,439,31,127,4989.401993,With Family
+T0536,India,63,Male,Business,Adventure Park,23,1725,Resort,5,422,53,100,2664.579149,Without Family
+T0537,UK,40,Other,Business,City,30,3821,Airbnb,8,254,209,194,4146.436797,Without Family
+T0538,Canada,49,Other,Leisure,Beach,14,2757,Hotel,5,222,250,121,1223.922324,Without Family
+T0539,UK,51,Male,Medical,City,8,2248,Hostel,8,177,183,43,1017.01303,Without Family
+T0540,Canada,47,Other,Education,Countryside,19,4126,Airbnb,9,287,203,52,4075.610156,Without Family
+T0541,Germany,46,Male,Medical,Countryside,30,4158,Hotel,10,277,205,183,5035.721541,With Family
+T0542,Germany,23,Female,Leisure,Beach,3,961,Hostel,7,461,117,94,2909.284492,With Family
+T0543,USA,36,Other,Education,City,13,717,Resort,5,415,36,32,2842.030814,With Family
+T0544,India,54,Female,Medical,Beach,13,2999,Airbnb,9,481,235,194,1585.080458,With Family
+T0545,China,46,Other,Medical,Mountain,15,727,Resort,12,267,187,188,2997.795734,With Family
+T0546,Canada,28,Male,Leisure,Beach,30,3554,Resort,9,213,222,41,5426.279289,Without Family
+T0547,UK,28,Male,Education,Beach,19,3882,Airbnb,6,301,168,172,4654.835966,Without Family
+T0548,China,74,Female,Medical,Beach,27,3985,Airbnb,7,289,149,168,2343.211435,Without Family
+T0549,Australia,24,Male,Medical,Countryside,15,1095,Resort,3,435,122,90,3153.917877,Without Family
+T0550,India,43,Other,Business,Mountain,28,2761,Hostel,5,62,195,115,1713.993345,Without Family
+T0551,China,49,Other,Business,Countryside,13,1807,Hotel,6,262,52,173,3951.722399,Without Family
+T0552,India,53,Male,Leisure,Mountain,27,2353,Resort,8,377,172,142,5082.071963,With Family
+T0553,Germany,67,Female,Leisure,Countryside,19,3567,Hostel,7,75,153,176,4037.932995,Without Family
+T0554,France,24,Male,Business,Beach,21,4856,Hostel,7,296,108,149,4314.657787,Without Family
+T0555,Australia,28,Male,Medical,Adventure Park,19,1101,Resort,11,422,194,66,2328.630379,With Family
+T0556,Germany,70,Other,Business,Mountain,13,3708,Hotel,7,401,57,76,4193.990143,With Family
+T0557,India,59,Other,Medical,Countryside,18,655,Resort,10,308,294,132,2527.985795,Without Family
+T0558,Germany,53,Male,Education,Countryside,12,3383,Resort,7,212,148,88,1161.652085,Without Family
+T0559,Germany,56,Female,Medical,City,18,4209,Hotel,2,300,87,181,3652.628037,With Family
+T0560,Australia,71,Other,Business,Mountain,7,1543,Resort,10,409,115,30,4042.555877,Without Family
+T0561,UK,22,Female,Business,Countryside,21,4992,Hotel,6,106,241,75,1659.453679,Without Family
+T0562,China,45,Female,Education,Mountain,16,3716,Hostel,6,163,253,81,5443.554618,With Family
+T0563,UK,70,Other,Education,Beach,24,4172,Airbnb,6,256,211,84,797.934148,Without Family
+T0564,Germany,59,Female,Leisure,City,20,3304,Hostel,11,61,46,36,4608.092496,With Family
+T0565,Australia,54,Other,Medical,Mountain,7,4639,Airbnb,8,384,286,175,900.1261934,With Family
+T0566,Germany,71,Other,Medical,Adventure Park,3,4513,Hostel,3,84,223,28,2544.10358,Without Family
+T0567,China,48,Female,Education,City,13,305,Hotel,11,50,182,49,1025.450245,With Family
+T0568,France,45,Other,Medical,Beach,7,1935,Hotel,1,353,227,180,2191.458947,With Family
+T0569,Germany,70,Female,Medical,Countryside,30,4041,Resort,12,180,66,112,2952.330363,Without Family
+T0570,China,38,Other,Business,Beach,14,4667,Airbnb,8,194,226,124,4414.43042,With Family
+T0571,UK,22,Male,Leisure,Mountain,26,1439,Hotel,2,255,179,113,1875.759098,With Family
+T0572,India,65,Female,Leisure,Adventure Park,15,732,Hotel,4,66,185,159,4686.459673,With Family
+T0573,India,72,Male,Leisure,Mountain,24,2758,Airbnb,12,340,300,77,2044.603858,Without Family
+T0574,Canada,39,Other,Business,Adventure Park,25,799,Hostel,4,317,204,125,4732.647028,With Family
+T0575,France,64,Male,Leisure,Countryside,17,2957,Airbnb,8,456,161,37,2350.632598,Without Family
+T0576,UK,34,Other,Medical,Countryside,23,3084,Resort,3,144,257,135,2624.746833,Without Family
+T0577,China,66,Other,Education,Countryside,14,1600,Resort,4,388,197,165,4779.992189,With Family
+T0578,China,75,Male,Leisure,Beach,10,2343,Hotel,8,137,37,171,3021.862457,With Family
+T0579,Australia,72,Male,Leisure,Beach,4,688,Hotel,3,307,115,200,2173.147815,Without Family
+T0580,China,22,Other,Medical,City,17,1704,Hostel,7,398,70,197,3912.240671,Without Family
+T0581,France,66,Other,Education,Mountain,3,4159,Hotel,11,424,137,112,4753.625012,Without Family
+T0582,Canada,43,Female,Business,Mountain,21,1977,Hotel,3,269,171,70,4162.339591,Without Family
+T0583,Australia,45,Male,Medical,Mountain,20,1486,Hostel,3,405,263,128,1525.969093,With Family
+T0584,France,19,Other,Education,Countryside,16,3701,Airbnb,7,269,144,167,5015.990175,With Family
+T0585,Germany,45,Male,Business,Mountain,15,3120,Hotel,9,489,244,40,1660.844155,With Family
+T0586,India,65,Female,Leisure,Mountain,14,272,Hostel,3,491,283,141,4811.317761,With Family
+T0587,Canada,33,Male,Medical,Mountain,20,3738,Hotel,4,491,87,26,1952.772966,Without Family
+T0588,Germany,53,Male,Education,Mountain,6,4356,Resort,3,240,131,177,4896.575002,Without Family
+T0589,Australia,64,Female,Leisure,Countryside,21,3914,Hostel,10,266,37,145,5308.384248,With Family
+T0590,USA,57,Other,Leisure,Countryside,26,3908,Airbnb,1,430,247,76,1842.698172,Without Family
+T0591,UK,55,Female,Business,City,29,2037,Resort,5,273,237,24,2366.099656,Without Family
+T0592,France,58,Female,Business,Mountain,14,1619,Airbnb,11,274,115,62,1522.048481,Without Family
+T0593,Canada,35,Other,Medical,Beach,17,2133,Airbnb,4,490,173,56,5306.844655,Without Family
+T0594,UK,63,Female,Medical,Beach,19,1417,Hostel,11,458,230,122,5312.042836,Without Family
+T0595,India,20,Male,Education,City,15,3915,Resort,12,139,117,84,4208.81061,With Family
+T0596,India,59,Female,Education,Beach,25,4444,Airbnb,3,477,279,99,4621.906466,With Family
+T0597,France,30,Male,Education,Countryside,6,1676,Hotel,11,152,148,92,5003.829817,With Family
+T0598,Australia,19,Other,Leisure,City,8,3068,Hotel,8,271,160,150,4467.77033,With Family
+T0599,UK,74,Other,Leisure,City,16,3421,Hostel,7,457,176,113,4381.065379,Without Family
+T0600,France,53,Other,Education,City,30,2349,Airbnb,12,404,116,26,744.2417791,Without Family
+T0601,Australia,43,Female,Business,Adventure Park,15,2272,Airbnb,10,78,281,107,2322.505608,With Family
+T0602,India,67,Other,Education,Countryside,23,968,Hotel,3,476,192,21,5101.417504,With Family
+T0603,China,21,Other,Medical,Beach,4,2209,Resort,10,212,237,46,4280.657516,Without Family
+T0604,USA,67,Female,Education,Mountain,24,4746,Airbnb,6,354,153,64,3883.122658,With Family
+T0605,UK,22,Female,Business,Mountain,12,4371,Hostel,7,397,228,101,3835.044592,With Family
+T0606,USA,41,Male,Leisure,Mountain,19,2636,Airbnb,2,104,30,168,4752.182405,With Family
+T0607,USA,63,Female,Leisure,Countryside,2,3898,Resort,6,375,198,108,795.3140933,With Family
+T0608,China,72,Female,Leisure,Beach,19,1401,Hostel,5,182,71,164,2909.285384,With Family
+T0609,India,43,Female,Medical,Mountain,15,3315,Hostel,5,128,267,37,1846.02081,Without Family
+T0610,Australia,39,Other,Medical,City,23,4333,Hotel,5,206,93,102,3697.742623,With Family
+T0611,France,31,Female,Education,Beach,12,4969,Resort,12,420,109,86,2487.563569,With Family
+T0612,Canada,55,Male,Leisure,Mountain,19,2306,Hotel,11,299,112,62,5478.406153,With Family
+T0613,USA,54,Male,Leisure,Countryside,13,369,Hostel,1,239,140,56,4135.533418,With Family
+T0614,USA,36,Other,Education,Mountain,14,1397,Airbnb,1,129,206,186,1103.295403,Without Family
+T0615,China,62,Male,Medical,Adventure Park,20,1192,Airbnb,2,63,177,104,2431.272821,Without Family
+T0616,Australia,30,Other,Medical,Mountain,12,3509,Hostel,7,85,96,124,1720.34966,With Family
+T0617,UK,27,Other,Leisure,Countryside,7,1470,Hostel,12,412,55,171,4533.096225,With Family
+T0618,UK,24,Male,Medical,Adventure Park,10,2435,Hostel,3,374,127,146,1023.301763,Without Family
+T0619,France,71,Other,Leisure,Beach,17,539,Airbnb,7,478,64,175,2431.234344,With Family
+T0620,USA,73,Other,Leisure,City,30,414,Resort,7,363,31,124,2235.674043,Without Family
+T0621,Australia,49,Female,Business,Countryside,16,3550,Airbnb,1,430,90,22,1474.318215,With Family
+T0622,India,75,Other,Medical,City,2,952,Hostel,4,214,299,183,5100.690594,With Family
+T0623,Canada,29,Female,Medical,Beach,16,2053,Airbnb,4,228,180,25,1450.836708,With Family
+T0624,Germany,61,Other,Leisure,Adventure Park,24,2739,Airbnb,2,391,183,92,2976.129852,Without Family
+T0625,Australia,35,Other,Leisure,Mountain,2,1796,Hotel,9,103,202,107,2162.728955,Without Family
+T0626,USA,67,Other,Medical,City,2,3728,Resort,8,115,217,64,1601.095799,With Family
+T0627,Canada,61,Female,Business,Countryside,23,4823,Hotel,1,384,206,102,5477.131935,With Family
+T0628,Australia,69,Other,Business,Mountain,15,1399,Hostel,4,280,82,180,2470.388367,Without Family
+T0629,France,36,Other,Medical,Adventure Park,16,1124,Airbnb,7,325,37,99,4279.31801,Without Family
+T0630,UK,37,Other,Medical,Adventure Park,3,3055,Hostel,6,261,30,146,5139.47381,With Family
+T0631,Germany,59,Male,Education,City,20,880,Hostel,2,121,285,133,2498.476004,Without Family
+T0632,Australia,70,Female,Business,Mountain,17,4212,Airbnb,10,483,41,180,3625.449825,Without Family
+T0633,Canada,54,Other,Education,Beach,18,4879,Resort,4,147,150,77,3083.894854,Without Family
+T0634,India,65,Male,Medical,Countryside,23,3443,Resort,9,254,234,36,1069.698983,With Family
+T0635,China,19,Male,Education,Beach,7,4094,Hostel,4,237,176,32,1758.119581,With Family
+T0636,Germany,25,Female,Business,Adventure Park,2,4517,Hotel,1,195,65,168,3301.943112,Without Family
+T0637,India,72,Other,Education,Countryside,7,613,Hostel,1,385,249,62,4934.960942,Without Family
+T0638,Germany,20,Other,Education,Countryside,29,2361,Hostel,2,391,56,83,1177.262922,Without Family
+T0639,UK,62,Male,Leisure,Countryside,8,3931,Hotel,2,359,290,28,4841.259437,With Family
+T0640,Australia,74,Other,Medical,City,16,848,Resort,11,187,249,126,4565.645814,Without Family
+T0641,India,36,Female,Education,Mountain,20,3467,Resort,4,146,225,111,3980.300663,With Family
+T0642,China,25,Other,Leisure,Adventure Park,23,2697,Hotel,2,114,192,49,2396.890526,Without Family
+T0643,Canada,59,Other,Business,Countryside,11,2078,Airbnb,5,473,181,61,2588.504506,Without Family
+T0644,USA,61,Other,Business,Mountain,7,443,Hotel,3,288,59,80,3883.585852,With Family
+T0645,Germany,43,Male,Leisure,Mountain,21,2088,Hostel,11,420,213,106,4442.134556,With Family
+T0646,India,48,Other,Business,Mountain,13,296,Hotel,6,181,249,194,774.3575862,Without Family
+T0647,France,55,Other,Business,Adventure Park,18,2845,Hostel,4,421,132,122,1603.07846,With Family
+T0648,Germany,19,Female,Medical,City,17,4005,Resort,10,65,139,27,2387.838558,Without Family
+T0649,Canada,46,Female,Medical,Beach,19,3476,Airbnb,10,98,251,43,4455.083848,With Family
+T0650,France,50,Male,Business,City,25,4064,Hotel,1,446,200,102,3307.229218,With Family
+T0651,Canada,48,Other,Medical,Adventure Park,26,3136,Hotel,6,308,198,29,5448.488805,With Family
+T0652,Canada,42,Other,Business,Countryside,3,3245,Hostel,1,200,219,88,3721.996524,Without Family
+T0653,France,71,Other,Education,Adventure Park,2,3210,Resort,10,405,272,147,4756.859552,With Family
+T0654,France,19,Other,Education,Countryside,3,1657,Airbnb,2,492,118,199,4877.065137,Without Family
+T0655,UK,47,Female,Education,Mountain,24,1289,Hotel,7,234,294,163,3378.985436,With Family
+T0656,Germany,45,Other,Business,Countryside,15,1547,Hotel,5,414,31,57,4463.979057,With Family
+T0657,USA,30,Male,Education,City,25,2968,Hotel,7,232,296,195,1778.207018,Without Family
+T0658,UK,70,Female,Education,Countryside,2,735,Hostel,8,465,128,155,3262.58324,Without Family
+T0659,Canada,60,Male,Business,City,25,2489,Airbnb,11,118,64,138,1201.573385,Without Family
+T0660,Australia,42,Female,Business,Adventure Park,20,574,Resort,11,317,116,176,747.5205293,With Family
+T0661,China,46,Male,Business,Mountain,28,1260,Hostel,5,357,279,111,4428.672868,With Family
+T0662,China,70,Other,Education,City,23,3824,Airbnb,12,112,84,88,4306.205983,Without Family
+T0663,India,21,Female,Business,Countryside,21,1514,Hotel,1,358,273,152,1690.175256,With Family
+T0664,France,41,Male,Leisure,Mountain,23,4304,Resort,1,231,276,171,3180.828012,Without Family
+T0665,Germany,50,Male,Business,Countryside,14,4568,Hostel,7,459,44,93,4310.48953,With Family
+T0666,UK,38,Female,Leisure,Adventure Park,20,2747,Resort,12,248,222,165,3649.96793,Without Family
+T0667,UK,34,Other,Education,Countryside,28,2154,Resort,4,91,80,149,2205.023277,Without Family
+T0668,USA,51,Male,Medical,Countryside,18,1205,Airbnb,11,434,131,22,2710.417325,Without Family
+T0669,Canada,30,Other,Education,Mountain,19,1189,Hostel,10,105,45,176,5044.364849,With Family
+T0670,Australia,24,Other,Leisure,Mountain,11,3712,Airbnb,8,104,211,49,4547.994151,With Family
+T0671,India,73,Male,Business,Mountain,26,3822,Resort,4,151,94,128,2027.934693,With Family
+T0672,Australia,63,Other,Education,Countryside,6,1728,Hotel,5,194,61,179,4053.869781,With Family
+T0673,Canada,26,Other,Leisure,City,17,3108,Airbnb,1,415,140,133,1047.419999,Without Family
+T0674,UK,53,Female,Leisure,City,18,3197,Resort,4,406,147,140,4846.515419,With Family
+T0675,Australia,36,Male,Medical,Adventure Park,29,637,Hotel,6,71,230,154,2471.765256,With Family
+T0676,Canada,23,Male,Business,City,24,250,Resort,9,437,171,100,1802.754459,Without Family
+T0677,UK,30,Male,Education,Mountain,12,2001,Hotel,8,252,259,189,3874.089527,With Family
+T0678,USA,51,Female,Medical,Mountain,22,4247,Hostel,8,209,135,148,1459.592728,Without Family
+T0679,Germany,26,Female,Leisure,Adventure Park,5,2690,Hotel,4,362,76,82,5464.506663,Without Family
+T0680,Australia,59,Male,Education,Countryside,4,4128,Resort,9,473,247,60,3664.730147,Without Family
+T0681,Germany,30,Male,Medical,Adventure Park,29,2156,Hotel,12,103,254,171,2110.03603,Without Family
+T0682,Canada,26,Male,Education,Countryside,10,2706,Hostel,1,143,286,96,2944.146928,Without Family
+T0683,Germany,32,Male,Education,City,20,435,Airbnb,11,99,273,34,4411.356568,Without Family
+T0684,UK,67,Other,Medical,Countryside,19,2085,Resort,6,440,44,135,1900.51425,Without Family
+T0685,UK,39,Other,Medical,Countryside,13,1744,Hostel,5,232,240,106,1208.545732,Without Family
+T0686,USA,63,Male,Education,Beach,3,3262,Hostel,12,109,174,156,3306.145916,Without Family
+T0687,China,45,Female,Education,Beach,12,1472,Airbnb,11,75,266,54,1012.024149,With Family
+T0688,Canada,73,Other,Business,Mountain,13,664,Hotel,9,394,33,55,2720.30556,Without Family
+T0689,USA,38,Female,Medical,Beach,26,3958,Airbnb,10,52,87,171,1833.70215,Without Family
+T0690,UK,37,Male,Leisure,Countryside,18,652,Hotel,12,107,96,32,2926.955898,Without Family
+T0691,Canada,25,Female,Leisure,Adventure Park,9,4607,Hotel,4,427,67,83,3333.74817,With Family
+T0692,India,39,Other,Medical,Mountain,12,3843,Hostel,8,144,57,115,1440.923122,Without Family
+T0693,Australia,69,Female,Leisure,City,20,4811,Airbnb,7,444,61,66,3009.083509,Without Family
+T0694,China,53,Male,Leisure,Countryside,16,2027,Hostel,9,484,287,180,4228.51737,With Family
+T0695,Australia,57,Female,Medical,Mountain,13,4340,Hotel,1,206,63,194,5421.014037,With Family
+T0696,USA,35,Male,Business,Adventure Park,8,4043,Airbnb,11,295,144,141,1404.221093,Without Family
+T0697,China,57,Female,Medical,Beach,12,1258,Resort,7,330,182,23,4716.210019,Without Family
+T0698,Germany,45,Male,Business,Beach,21,2002,Airbnb,6,475,196,97,1170.844428,With Family
+T0699,Germany,19,Male,Leisure,Adventure Park,23,4427,Airbnb,10,67,236,164,1792.494839,With Family
+T0700,Germany,71,Male,Medical,Countryside,10,1793,Resort,7,339,287,155,2542.88912,With Family
+T0701,Germany,36,Female,Education,Countryside,23,491,Resort,11,240,104,51,1750.230621,Without Family
+T0702,France,32,Female,Leisure,City,27,2220,Airbnb,2,227,30,74,4609.332887,With Family
+T0703,India,23,Female,Medical,Beach,5,2499,Resort,9,152,143,124,4077.872253,With Family
+T0704,Canada,66,Male,Medical,Adventure Park,22,2131,Hostel,5,203,186,114,2145.083495,With Family
+T0705,UK,69,Female,Medical,Adventure Park,10,4045,Resort,11,106,101,62,1320.81869,Without Family
+T0706,France,42,Male,Education,Beach,19,2016,Resort,2,288,59,100,3694.553583,With Family
+T0707,Australia,66,Male,Medical,Countryside,8,1656,Resort,5,433,84,182,4498.036414,Without Family
+T0708,USA,56,Female,Leisure,City,4,3230,Hotel,1,313,50,90,4968.421418,With Family
+T0709,Australia,56,Male,Education,Adventure Park,15,2942,Resort,3,231,297,171,4982.348821,Without Family
+T0710,UK,61,Other,Business,Adventure Park,7,663,Hotel,12,296,100,61,2352.093058,Without Family
+T0711,Australia,26,Other,Education,Mountain,20,1327,Hostel,7,452,148,115,3116.75037,Without Family
+T0712,China,67,Male,Education,Countryside,30,3689,Hotel,7,480,60,187,3632.559176,Without Family
+T0713,Australia,67,Female,Education,Adventure Park,9,1756,Airbnb,5,73,113,167,4417.266404,With Family
+T0714,China,54,Female,Leisure,City,16,1383,Airbnb,2,390,70,136,4167.085664,With Family
+T0715,India,54,Other,Business,Mountain,5,452,Resort,1,139,284,46,3782.122122,With Family
+T0716,Germany,58,Male,Leisure,City,22,1611,Airbnb,11,271,172,64,4018.031249,With Family
+T0717,UK,26,Female,Business,Countryside,23,1858,Hostel,7,149,228,72,5383.345055,Without Family
+T0718,Australia,30,Female,Education,Beach,27,3530,Airbnb,1,110,282,45,1029.862156,With Family
+T0719,Canada,37,Other,Business,Countryside,13,2907,Resort,3,371,135,194,1041.680561,With Family
+T0720,Australia,28,Female,Leisure,Mountain,30,4827,Airbnb,4,151,109,145,3625.692847,With Family
+T0721,France,74,Female,Business,Adventure Park,16,1446,Hotel,4,121,297,152,3305.220138,Without Family
+T0722,Germany,53,Male,Education,City,12,4628,Resort,7,112,30,154,3029.763883,With Family
+T0723,Australia,48,Other,Business,City,23,223,Airbnb,4,377,161,84,1995.435462,With Family
+T0724,UK,58,Female,Leisure,Countryside,20,4693,Hotel,10,441,126,62,1850.60563,Without Family
+T0725,UK,65,Female,Education,City,22,3826,Resort,12,186,124,80,2639.319752,Without Family
+T0726,France,72,Female,Leisure,Adventure Park,16,4813,Hostel,7,145,270,140,2457.77357,With Family
+T0727,India,39,Female,Leisure,Mountain,13,4587,Hotel,12,145,136,99,1146.185709,Without Family
+T0728,Germany,73,Female,Business,Beach,8,4577,Airbnb,3,168,187,72,2312.625264,Without Family
+T0729,UK,39,Male,Business,Adventure Park,28,438,Hotel,6,492,106,143,2344.604929,With Family
+T0730,USA,20,Male,Education,Countryside,30,4618,Resort,6,429,245,130,4603.354877,Without Family
+T0731,Canada,56,Other,Leisure,Adventure Park,15,1126,Resort,7,464,80,90,3845.825483,With Family
+T0732,Australia,24,Other,Medical,Beach,3,3068,Resort,3,329,50,135,3639.62636,With Family
+T0733,France,38,Female,Education,Mountain,27,4746,Hostel,9,376,259,91,973.3716402,With Family
+T0734,UK,28,Other,Leisure,Mountain,10,3199,Hotel,7,265,259,84,4615.748932,Without Family
+T0735,Australia,25,Female,Business,City,4,1956,Airbnb,11,408,241,197,3719.318596,With Family
+T0736,France,67,Female,Leisure,Mountain,29,4986,Resort,10,388,215,96,3037.786089,With Family
+T0737,India,31,Female,Business,Countryside,6,1826,Resort,8,284,169,60,2121.178116,Without Family
+T0738,Australia,38,Female,Leisure,Mountain,11,2347,Hostel,2,268,114,39,5085.9605,With Family
+T0739,China,55,Other,Leisure,Adventure Park,7,2032,Resort,3,300,254,95,889.7822661,With Family
+T0740,UK,22,Male,Medical,Adventure Park,10,3844,Hostel,6,449,69,41,4461.387824,Without Family
+T0741,USA,57,Male,Medical,Adventure Park,12,3243,Resort,4,424,263,35,4875.353589,With Family
+T0742,UK,58,Male,Leisure,Beach,27,2594,Hotel,12,493,57,176,1789.929715,Without Family
+T0743,Canada,50,Female,Education,Mountain,11,1812,Hotel,1,247,69,177,4663.642203,With Family
+T0744,UK,53,Other,Medical,Mountain,6,2119,Resort,12,456,212,114,3389.563944,With Family
+T0745,Canada,65,Male,Leisure,Adventure Park,19,4496,Airbnb,6,499,66,189,940.1809374,Without Family
+T0746,India,27,Other,Medical,Adventure Park,8,1838,Hotel,3,279,65,42,1206.684477,With Family
+T0747,UK,67,Other,Education,Mountain,26,3903,Resort,2,84,227,28,3759.37162,With Family
+T0748,China,39,Other,Business,City,29,3309,Airbnb,6,161,206,148,3922.398497,With Family
+T0749,India,74,Other,Leisure,Beach,21,1873,Hostel,12,415,64,145,5340.358919,With Family
+T0750,Germany,19,Female,Medical,Mountain,15,1616,Hotel,12,368,58,177,3099.845558,With Family
+T0751,Canada,46,Other,Leisure,City,14,3965,Hostel,12,388,108,97,3469.466919,With Family
+T0752,France,32,Other,Medical,Adventure Park,21,3916,Hotel,7,361,235,173,1317.484265,Without Family
+T0753,Canada,36,Male,Education,Mountain,10,2263,Hotel,5,178,283,39,1355.92076,With Family
+T0754,Germany,74,Male,Education,City,30,4470,Resort,2,304,44,120,2228.553999,Without Family
+T0755,USA,69,Female,Leisure,Beach,23,4703,Hotel,6,128,222,145,2004.591097,With Family
+T0756,Canada,33,Female,Medical,Mountain,11,4703,Hotel,9,302,265,178,2151.097424,Without Family
+T0757,UK,30,Female,Medical,Beach,5,799,Resort,5,458,126,99,4983.243096,With Family
+T0758,China,58,Male,Medical,Adventure Park,28,4069,Resort,3,401,93,118,2353.907255,Without Family
+T0759,Australia,53,Female,Leisure,Mountain,19,3846,Airbnb,10,74,214,140,3473.571286,With Family
+T0760,USA,42,Other,Business,Mountain,24,1122,Resort,12,70,46,122,4132.312747,Without Family
+T0761,Australia,48,Male,Leisure,Countryside,30,1968,Hotel,7,488,62,139,2716.603398,Without Family
+T0762,Australia,67,Female,Medical,City,29,3128,Hostel,2,410,267,159,4459.792922,Without Family
+T0763,France,37,Other,Medical,Countryside,4,1668,Hotel,6,383,235,28,2090.040714,Without Family
+T0764,Australia,57,Male,Education,City,21,465,Hotel,7,194,114,21,3930.171791,Without Family
+T0765,UK,26,Other,Education,City,25,1766,Hostel,6,262,198,91,3510.947084,With Family
+T0766,France,43,Male,Business,Mountain,22,3908,Hotel,12,326,294,144,2692.723269,With Family
+T0767,Australia,61,Female,Leisure,Beach,24,3283,Airbnb,11,189,266,130,3401.785766,Without Family
+T0768,France,41,Male,Education,City,2,4536,Airbnb,9,393,190,61,852.883995,With Family
+T0769,India,29,Other,Leisure,City,28,3380,Airbnb,7,255,46,85,5439.533155,Without Family
+T0770,Canada,58,Other,Education,Beach,3,637,Airbnb,3,161,157,175,4541.72638,With Family
+T0771,Germany,54,Other,Education,Countryside,7,2679,Airbnb,1,299,274,191,2973.682414,With Family
+T0772,India,71,Female,Education,Mountain,30,1272,Airbnb,11,295,99,190,2824.533594,With Family
+T0773,Canada,56,Female,Business,Countryside,6,1416,Hostel,5,263,278,50,4988.737981,With Family
+T0774,UK,39,Female,Medical,Mountain,19,4634,Resort,8,288,245,119,962.7123225,Without Family
+T0775,China,63,Female,Education,Beach,17,603,Resort,11,372,33,157,3758.685534,Without Family
+T0776,Canada,21,Female,Education,Mountain,6,3288,Hostel,11,252,175,84,4632.71294,Without Family
+T0777,India,18,Male,Education,Countryside,16,4456,Resort,8,473,91,173,1885.207575,Without Family
+T0778,Australia,26,Female,Leisure,Countryside,12,1884,Resort,11,282,41,200,1923.039706,With Family
+T0779,India,25,Male,Education,City,6,996,Hostel,12,303,296,183,1394.745875,Without Family
+T0780,Germany,36,Male,Leisure,Adventure Park,10,1549,Resort,6,121,77,152,769.8779294,Without Family
+T0781,China,60,Female,Leisure,Mountain,2,1671,Hotel,4,477,267,64,4746.854644,Without Family
+T0782,Canada,71,Female,Education,City,24,3358,Hotel,2,136,76,25,5217.760235,Without Family
+T0783,Germany,19,Male,Business,Mountain,8,350,Resort,2,455,46,191,2606.955974,With Family
+T0784,Germany,61,Male,Business,Mountain,15,2437,Resort,7,402,112,39,4468.786462,Without Family
+T0785,Germany,61,Other,Education,Beach,4,4541,Hotel,1,206,267,67,5189.039809,With Family
+T0786,Canada,51,Female,Education,City,9,2013,Resort,12,183,293,98,3612.375683,Without Family
+T0787,UK,51,Male,Medical,Beach,26,3009,Resort,7,74,149,30,4144.226928,Without Family
+T0788,USA,45,Other,Medical,City,22,1657,Airbnb,10,466,230,148,2837.623658,Without Family
+T0789,India,42,Other,Leisure,Adventure Park,10,3024,Resort,4,459,104,182,3121.572409,With Family
+T0790,China,70,Male,Medical,Adventure Park,6,722,Hostel,10,432,107,160,5124.181968,With Family
+T0791,China,46,Male,Education,Mountain,26,546,Airbnb,8,447,220,117,5123.989305,With Family
+T0792,China,61,Other,Education,Adventure Park,11,1959,Hotel,6,173,84,152,3296.502816,With Family
+T0793,India,71,Male,Education,Beach,24,1528,Hotel,9,310,244,124,3817.684705,With Family
+T0794,USA,75,Other,Business,Mountain,4,2096,Airbnb,11,450,222,144,3476.593791,With Family
+T0795,Canada,19,Female,Business,Adventure Park,25,3319,Resort,2,405,152,34,2534.16155,Without Family
+T0796,India,55,Male,Leisure,City,23,1902,Airbnb,12,167,86,139,3572.874747,With Family
+T0797,UK,57,Male,Leisure,Adventure Park,27,2973,Airbnb,3,178,60,190,3360.65891,Without Family
+T0798,Germany,26,Male,Education,Adventure Park,3,1003,Airbnb,8,81,204,20,3432.09063,With Family
+T0799,Germany,25,Other,Leisure,Countryside,13,4194,Airbnb,11,213,49,100,2013.802815,With Family
+T0800,UK,72,Other,Business,Countryside,4,1405,Hotel,3,439,252,60,2118.997223,With Family
+T0801,USA,50,Male,Education,Beach,30,2807,Hostel,4,289,127,47,3152.320785,Without Family
+T0802,Australia,35,Other,Business,Countryside,22,4934,Hostel,5,97,30,36,1960.565908,With Family
+T0803,USA,24,Other,Medical,Countryside,12,4040,Hotel,2,68,124,166,3226.256034,Without Family
+T0804,France,61,Other,Education,Beach,9,1386,Resort,9,313,66,33,1395.460244,Without Family
+T0805,Australia,56,Other,Business,City,6,4294,Airbnb,3,119,112,142,4070.087546,With Family
+T0806,India,19,Male,Leisure,Mountain,19,2435,Resort,12,235,215,135,3077.806896,Without Family
+T0807,India,41,Other,Business,Beach,25,4130,Airbnb,1,427,189,200,3802.322125,Without Family
+T0808,Germany,50,Female,Leisure,Beach,27,3788,Hotel,5,413,254,166,5208.048374,Without Family
+T0809,UK,30,Female,Education,Adventure Park,12,3678,Resort,2,73,68,103,4515.683456,With Family
+T0810,Canada,41,Other,Leisure,Countryside,12,3139,Resort,6,269,154,78,3237.264949,Without Family
+T0811,Canada,21,Male,Medical,Beach,28,4052,Hotel,12,345,171,65,3010.445216,Without Family
+T0812,Canada,26,Female,Business,Adventure Park,15,1751,Airbnb,5,439,36,170,2100.736694,With Family
+T0813,Germany,75,Male,Education,City,3,3344,Resort,12,53,136,57,3704.430435,With Family
+T0814,France,19,Male,Leisure,Adventure Park,17,4420,Hotel,10,189,150,162,2144.775347,Without Family
+T0815,UK,63,Other,Education,Mountain,25,2276,Hotel,11,105,216,43,1703.832382,With Family
+T0816,Canada,45,Male,Business,City,9,3780,Resort,9,239,213,98,5331.13858,With Family
+T0817,UK,36,Female,Education,City,27,3961,Resort,6,300,31,37,2895.335157,Without Family
+T0818,France,30,Male,Education,Mountain,25,710,Hotel,9,122,78,85,806.0958381,With Family
+T0819,UK,64,Other,Leisure,Adventure Park,2,2577,Hotel,9,109,135,41,1541.457663,With Family
+T0820,France,74,Other,Medical,Countryside,2,861,Hotel,10,286,31,69,5428.779197,With Family
+T0821,France,26,Other,Leisure,Mountain,9,4327,Hostel,3,409,98,38,4806.748819,Without Family
+T0822,Canada,60,Other,Leisure,City,8,1687,Hotel,12,485,108,46,4064.381184,Without Family
+T0823,USA,44,Other,Business,Mountain,7,2248,Hostel,12,463,160,34,4692.974589,Without Family
+T0824,UK,57,Other,Medical,City,26,754,Hostel,12,368,245,105,1506.655361,Without Family
+T0825,Germany,70,Other,Medical,Adventure Park,27,1094,Airbnb,12,235,256,147,3787.330711,With Family
+T0826,Canada,73,Male,Leisure,Countryside,19,3809,Airbnb,5,287,151,68,4687.4036,Without Family
+T0827,India,35,Other,Education,City,4,3602,Airbnb,9,251,133,134,1722.614975,Without Family
+T0828,France,46,Male,Education,City,2,4617,Resort,1,233,284,125,4857.767028,With Family
+T0829,UK,60,Female,Leisure,City,14,4166,Resort,5,262,117,189,1361.157335,With Family
+T0830,USA,18,Other,Education,Countryside,4,4007,Hotel,12,405,133,137,4102.303763,Without Family
+T0831,China,69,Male,Medical,City,17,628,Hostel,2,155,291,53,2397.402531,With Family
+T0832,China,31,Female,Leisure,Beach,23,3428,Airbnb,6,234,118,140,5149.31857,With Family
+T0833,UK,22,Other,Medical,Adventure Park,6,3214,Resort,1,435,270,54,1412.203576,Without Family
+T0834,USA,57,Male,Leisure,Mountain,25,1937,Resort,12,431,171,38,4286.789768,With Family
+T0835,Germany,57,Other,Business,Beach,26,747,Hotel,1,359,247,83,5136.211162,With Family
+T0836,USA,23,Female,Education,Beach,29,4210,Hotel,12,394,201,150,5334.171521,Without Family
+T0837,Canada,55,Other,Medical,Mountain,11,2227,Resort,3,127,295,199,2727.537828,Without Family
+T0838,India,57,Male,Education,City,14,2238,Hostel,1,224,287,81,3507.644006,Without Family
+T0839,France,63,Female,Leisure,Beach,18,1202,Resort,3,155,115,42,2155.121055,Without Family
+T0840,Germany,56,Female,Business,City,19,445,Resort,9,102,141,170,1793.498741,Without Family
+T0841,Australia,26,Female,Education,Countryside,12,4281,Resort,4,439,118,160,3538.303911,With Family
+T0842,UK,36,Other,Medical,Mountain,2,470,Resort,4,172,110,120,1782.94428,Without Family
+T0843,Germany,49,Other,Leisure,City,9,2390,Airbnb,5,223,223,146,3021.678809,Without Family
+T0844,Germany,50,Female,Medical,Mountain,3,2245,Hotel,3,127,43,88,3546.091633,With Family
+T0845,France,62,Female,Business,Countryside,14,2243,Hotel,10,403,145,60,755.1638442,With Family
+T0846,USA,71,Female,Medical,Beach,21,2287,Airbnb,4,130,227,33,3504.23142,With Family
+T0847,Germany,27,Female,Medical,Adventure Park,27,687,Hostel,5,303,33,74,5081.210486,With Family
+T0848,Australia,44,Other,Medical,Countryside,6,1457,Hostel,11,84,254,109,1668.41986,Without Family
+T0849,India,31,Male,Leisure,Beach,25,722,Airbnb,3,156,183,141,2758.547446,Without Family
+T0850,Australia,64,Male,Business,Adventure Park,8,3570,Resort,3,177,213,99,2299.425712,Without Family
+T0851,France,73,Male,Medical,Beach,8,770,Hotel,11,359,232,162,3504.760004,Without Family
+T0852,Australia,44,Female,Medical,Mountain,26,3386,Hostel,8,135,65,142,3495.672627,Without Family
+T0853,USA,23,Other,Education,Adventure Park,29,811,Airbnb,8,284,234,142,5339.165615,Without Family
+T0854,USA,46,Female,Business,Mountain,25,4155,Hostel,11,495,207,165,5273.066923,Without Family
+T0855,India,72,Other,Education,Beach,14,2934,Airbnb,12,449,193,86,5176.839164,With Family
+T0856,Germany,71,Other,Education,City,7,4929,Resort,11,71,290,194,3222.539237,Without Family
+T0857,India,21,Other,Leisure,Beach,24,1909,Hostel,11,143,257,91,3732.182775,Without Family
+T0858,India,63,Female,Education,Mountain,23,2634,Resort,11,106,161,138,807.1323589,Without Family
+T0859,Germany,38,Female,Leisure,Adventure Park,22,1601,Hostel,2,374,44,135,1137.39905,With Family
+T0860,Canada,22,Male,Medical,Adventure Park,6,420,Resort,11,298,105,45,2690.813557,With Family
+T0861,Australia,33,Male,Education,Adventure Park,14,2155,Hotel,1,119,46,36,4944.718944,With Family
+T0862,UK,64,Other,Medical,Mountain,27,2046,Hotel,4,398,218,156,3979.698699,Without Family
+T0863,USA,63,Male,Education,Beach,26,2000,Resort,5,353,108,152,5104.62066,Without Family
+T0864,Canada,71,Male,Business,Beach,17,3959,Hotel,2,332,96,200,5215.953662,With Family
+T0865,China,73,Male,Medical,Adventure Park,3,4773,Resort,3,455,199,31,3189.497088,With Family
+T0866,Germany,63,Female,Education,Adventure Park,28,4213,Hostel,1,281,158,71,3861.003139,With Family
+T0867,UK,18,Female,Medical,City,15,2546,Airbnb,12,341,276,116,5071.522798,With Family
+T0868,Germany,32,Male,Education,Countryside,24,1123,Resort,4,60,60,169,823.2662232,Without Family
+T0869,Germany,20,Other,Education,Countryside,7,3834,Hostel,2,91,177,173,3744.063657,Without Family
+T0870,UK,38,Male,Medical,City,26,3369,Resort,5,378,295,190,3883.42293,With Family
+T0871,Australia,43,Female,Business,Mountain,21,1470,Resort,5,348,86,44,1309.862603,With Family
+T0872,Canada,42,Female,Business,Countryside,16,3639,Resort,6,386,105,32,2909.546926,Without Family
+T0873,Germany,40,Other,Business,Beach,30,4206,Hostel,11,215,98,107,896.9522103,Without Family
+T0874,UK,46,Male,Medical,City,7,2689,Hostel,3,291,297,134,1523.643526,With Family
+T0875,Australia,43,Other,Business,Adventure Park,11,2454,Resort,10,374,186,182,1185.979546,With Family
+T0876,France,19,Other,Education,Beach,15,1151,Hostel,6,159,149,135,3486.445598,With Family
+T0877,India,33,Other,Leisure,Countryside,8,3407,Resort,10,210,219,56,1987.004746,With Family
+T0878,Australia,18,Other,Education,Countryside,8,785,Hotel,8,442,295,193,4172.96942,With Family
+T0879,India,42,Male,Leisure,Adventure Park,2,820,Hostel,9,256,108,200,2916.875853,Without Family
+T0880,China,68,Female,Leisure,Beach,8,3367,Hostel,11,253,152,117,4523.310853,Without Family
+T0881,China,62,Female,Medical,City,14,1457,Resort,1,265,35,195,1263.640815,With Family
+T0882,Australia,74,Female,Business,Countryside,30,664,Airbnb,4,160,87,80,887.8310538,With Family
+T0883,Germany,45,Male,Leisure,Beach,22,599,Airbnb,2,302,230,148,1770.254521,Without Family
+T0884,USA,52,Other,Business,Beach,23,1727,Airbnb,6,204,259,78,3784.451261,With Family
+T0885,Germany,45,Other,Business,Mountain,22,3355,Resort,6,485,126,40,4170.033426,With Family
+T0886,France,42,Other,Leisure,Countryside,2,663,Resort,12,197,90,61,2027.334584,Without Family
+T0887,USA,60,Other,Business,City,9,2829,Hostel,9,149,297,59,2884.957614,Without Family
+T0888,Australia,53,Male,Education,Beach,20,4477,Hotel,11,223,195,58,4023.706212,With Family
+T0889,India,75,Other,Leisure,Beach,8,3590,Airbnb,6,320,183,116,1429.088391,Without Family
+T0890,Germany,24,Female,Business,City,27,391,Hotel,10,257,209,51,4159.326837,Without Family
+T0891,Australia,71,Female,Education,Mountain,10,3587,Hotel,5,386,35,120,2815.042296,With Family
+T0892,Canada,72,Female,Business,Countryside,30,4742,Hostel,2,443,46,140,1487.677226,Without Family
+T0893,UK,18,Female,Leisure,Countryside,9,4318,Airbnb,12,389,230,51,4049.927396,With Family
+T0894,China,59,Male,Medical,Countryside,28,915,Hostel,11,221,163,99,3689.319157,Without Family
+T0895,UK,27,Male,Medical,Adventure Park,10,2498,Resort,11,246,231,83,2065.262235,With Family
+T0896,Canada,74,Male,Education,Beach,3,481,Hotel,9,138,109,188,1341.148052,Without Family
+T0897,France,55,Male,Business,City,13,3905,Airbnb,2,105,210,84,4225.68856,With Family
+T0898,France,51,Male,Business,Beach,22,4753,Hotel,8,75,278,134,1892.988073,With Family
+T0899,UK,44,Female,Business,Beach,9,3896,Hostel,12,237,245,127,4765.817476,Without Family
+T0900,Canada,66,Male,Education,Mountain,15,1451,Resort,1,341,187,104,4669.746827,Without Family
+T0901,Canada,54,Other,Leisure,Beach,30,293,Resort,5,194,120,45,5407.053021,Without Family
+T0902,USA,25,Female,Education,Adventure Park,25,2706,Resort,11,441,290,67,1194.217929,With Family
+T0903,Canada,70,Female,Business,City,16,1385,Airbnb,9,434,163,98,1564.917079,With Family
+T0904,France,37,Male,Education,City,18,2157,Hostel,5,400,278,84,1034.123632,Without Family
+T0905,France,21,Female,Leisure,Countryside,23,2170,Hotel,9,420,172,77,5442.619435,Without Family
+T0906,India,73,Male,Education,City,7,4741,Hotel,11,57,279,194,1290.24046,Without Family
+T0907,China,41,Other,Medical,Mountain,27,749,Hotel,9,160,288,43,5169.005058,Without Family
+T0908,USA,34,Female,Business,City,24,418,Hotel,12,162,185,180,2613.157401,Without Family
+T0909,France,36,Female,Business,Mountain,3,2814,Hotel,3,77,116,194,815.9908851,Without Family
+T0910,Canada,25,Other,Leisure,Countryside,29,1763,Airbnb,5,153,122,75,4608.110184,Without Family
+T0911,Australia,46,Other,Business,Mountain,2,4500,Resort,2,255,253,194,4337.897501,With Family
+T0912,Germany,48,Male,Leisure,Countryside,14,513,Resort,2,398,155,65,3143.050021,Without Family
+T0913,UK,74,Female,Medical,Mountain,21,2013,Hostel,10,196,238,188,1643.031901,With Family
+T0914,USA,68,Male,Leisure,Beach,24,2491,Hotel,6,191,136,135,2087.660383,With Family
+T0915,India,65,Other,Leisure,Mountain,5,306,Airbnb,12,96,169,65,3453.89103,Without Family
+T0916,USA,40,Female,Leisure,Countryside,29,1784,Hostel,8,293,141,75,4959.08282,Without Family
+T0917,USA,21,Female,Leisure,City,23,4357,Hotel,8,242,119,190,2047.146776,With Family
+T0918,Germany,55,Male,Business,Countryside,17,2818,Airbnb,6,67,51,115,900.8882986,Without Family
+T0919,France,38,Female,Medical,Beach,27,3813,Hostel,1,222,76,137,2367.855365,With Family
+T0920,USA,60,Other,Medical,Mountain,11,4838,Airbnb,2,497,32,58,752.4475708,Without Family
+T0921,China,23,Other,Leisure,Beach,13,3071,Resort,11,167,194,117,3478.496327,Without Family
+T0922,Germany,68,Female,Medical,Beach,28,2012,Airbnb,5,349,247,81,2209.883201,With Family
+T0923,India,31,Male,Business,Countryside,27,1961,Resort,9,361,70,149,1248.25716,With Family
+T0924,Canada,74,Female,Education,Mountain,14,1347,Hotel,10,226,99,74,3300.170699,Without Family
+T0925,India,21,Female,Medical,Beach,19,1983,Hotel,9,374,37,189,2102.557394,With Family
+T0926,Germany,49,Other,Medical,Countryside,4,2475,Airbnb,11,55,87,60,1510.270401,With Family
+T0927,Australia,63,Other,Leisure,Mountain,2,3195,Hostel,3,66,37,113,5439.184932,Without Family
+T0928,Germany,55,Other,Medical,City,15,1032,Airbnb,4,262,300,193,4715.749331,With Family
+T0929,China,75,Male,Leisure,Mountain,6,2178,Resort,9,472,100,136,2689.506568,Without Family
+T0930,Germany,42,Other,Education,Countryside,6,3929,Hostel,5,87,71,50,1665.049528,Without Family
+T0931,China,26,Female,Education,Countryside,23,3394,Hostel,6,484,256,29,1127.462327,With Family
+T0932,China,45,Male,Medical,Beach,19,3873,Hotel,8,230,232,142,2886.003223,Without Family
+T0933,France,31,Female,Medical,Mountain,2,3955,Hotel,11,67,38,75,856.3147667,With Family
+T0934,Australia,25,Female,Leisure,Mountain,15,4404,Resort,10,265,149,66,5016.790987,With Family
+T0935,India,66,Other,Education,Adventure Park,4,1672,Resort,12,197,201,133,1661.587731,Without Family
+T0936,Australia,26,Other,Medical,Mountain,28,1563,Resort,3,392,153,43,4700.897345,With Family
+T0937,UK,41,Other,Education,City,9,3306,Resort,3,418,91,76,3495.466587,Without Family
+T0938,UK,32,Male,Medical,Mountain,11,2203,Hotel,2,122,222,163,5187.346571,With Family
+T0939,China,47,Female,Business,Beach,2,2645,Hostel,1,111,132,188,4929.32658,With Family
+T0940,Canada,19,Female,Education,Mountain,21,1412,Resort,7,192,50,146,4620.843597,Without Family
+T0941,France,44,Other,Medical,Countryside,10,2418,Hostel,11,408,49,24,4002.707104,Without Family
+T0942,USA,45,Female,Education,City,23,2638,Resort,10,417,37,167,4527.04546,Without Family
+T0943,Australia,39,Female,Medical,City,7,771,Hostel,7,66,122,184,2892.541807,With Family
+T0944,Australia,72,Male,Education,Beach,26,1933,Hostel,4,358,117,28,5337.618701,Without Family
+T0945,China,28,Female,Education,City,26,3797,Resort,8,108,186,178,1495.643058,Without Family
+T0946,Canada,18,Female,Business,Adventure Park,24,4558,Hotel,1,420,185,135,4752.749931,With Family
+T0947,India,26,Male,Business,Countryside,3,2439,Resort,8,169,222,68,4166.187107,Without Family
+T0948,India,35,Other,Education,Adventure Park,28,4264,Airbnb,4,51,60,187,3100.89245,Without Family
+T0949,Australia,45,Male,Education,City,28,3858,Airbnb,12,422,116,82,2964.73572,Without Family
+T0950,USA,27,Other,Leisure,City,6,3696,Airbnb,4,429,293,151,5139.257093,Without Family
+T0951,France,72,Other,Leisure,City,3,2161,Airbnb,6,282,187,109,5313.489739,With Family
+T0952,UK,53,Male,Business,Mountain,4,3793,Hotel,3,373,146,34,5026.086684,Without Family
+T0953,China,49,Male,Medical,Beach,13,3880,Resort,8,203,266,72,1072.120616,With Family
+T0954,USA,49,Other,Medical,Countryside,30,612,Hostel,7,386,95,141,1986.854336,Without Family
+T0955,India,48,Female,Medical,Adventure Park,2,4851,Resort,12,157,45,130,5107.287545,With Family
+T0956,Canada,47,Female,Education,Adventure Park,27,2079,Hostel,8,400,49,54,4439.865573,Without Family
+T0957,USA,18,Other,Education,Mountain,6,2867,Hostel,7,170,66,55,2142.294868,With Family
+T0958,UK,63,Female,Medical,Adventure Park,10,4354,Hotel,12,172,79,67,2487.24524,With Family
+T0959,Canada,28,Other,Leisure,Beach,20,1501,Hotel,8,458,46,165,3930.302223,Without Family
+T0960,France,30,Female,Education,City,2,1665,Resort,1,138,248,61,998.6361555,Without Family
+T0961,India,64,Other,Education,Beach,22,2634,Hotel,9,299,266,135,3560.447417,Without Family
+T0962,China,24,Other,Education,Adventure Park,8,1819,Airbnb,12,207,238,30,4979.268004,Without Family
+T0963,China,62,Other,Medical,Adventure Park,10,2668,Airbnb,5,142,94,164,3734.915304,With Family
+T0964,India,54,Other,Business,City,16,3098,Airbnb,8,278,73,105,2501.727032,With Family
+T0965,France,40,Other,Medical,City,13,4395,Resort,3,413,177,32,2008.292231,With Family
+T0966,China,36,Other,Business,Countryside,17,2528,Airbnb,11,145,259,173,4522.84541,Without Family
+T0967,Germany,25,Male,Education,City,30,735,Airbnb,12,455,181,103,5359.867631,Without Family
+T0968,UK,41,Female,Business,Adventure Park,24,517,Resort,8,451,122,78,4109.015082,Without Family
+T0969,India,69,Male,Education,Mountain,10,2046,Hotel,5,263,152,95,3431.770474,With Family
+T0970,India,26,Male,Medical,City,4,2787,Hostel,9,208,266,131,1220.105823,With Family
+T0971,India,55,Female,Education,City,21,361,Hotel,8,351,101,134,1834.0571,With Family
+T0972,UK,24,Male,Leisure,Beach,26,4582,Hotel,3,57,88,91,1558.418543,With Family
+T0973,UK,72,Female,Business,Mountain,25,1344,Resort,4,320,82,171,3786.725475,Without Family
+T0974,India,42,Female,Education,Beach,10,425,Hostel,11,374,167,184,1393.325584,With Family
+T0975,Germany,18,Male,Medical,Adventure Park,26,2961,Hostel,7,488,113,22,2527.180473,With Family
+T0976,Australia,20,Other,Business,Mountain,7,2979,Airbnb,6,463,234,143,4348.757768,With Family
+T0977,Australia,52,Male,Education,Beach,15,3180,Airbnb,2,52,164,112,1124.996892,With Family
+T0978,France,33,Male,Education,Adventure Park,30,340,Resort,8,273,174,35,2821.697154,With Family
+T0979,UK,59,Male,Education,Countryside,30,2118,Hotel,11,436,66,87,5196.471992,With Family
+T0980,India,68,Other,Education,Countryside,24,2854,Hotel,3,360,166,51,4195.057658,Without Family
+T0981,China,41,Female,Leisure,Beach,2,3156,Resort,6,254,238,126,1013.13991,Without Family
+T0982,UK,48,Male,Leisure,Mountain,24,487,Airbnb,5,438,122,49,1591.927033,Without Family
+T0983,USA,36,Female,Leisure,Beach,5,2027,Hotel,8,66,89,191,5475.576027,Without Family
+T0984,Germany,56,Female,Business,City,26,799,Hotel,6,481,181,74,5138.947194,Without Family
+T0985,France,60,Other,Education,City,14,661,Hotel,3,193,124,37,4160.662405,Without Family
+T0986,UK,42,Female,Business,City,22,421,Airbnb,3,384,79,51,1093.450264,With Family
+T0987,Canada,30,Male,Leisure,Adventure Park,15,1577,Hostel,10,345,175,50,4289.124477,With Family
+T0988,Canada,27,Male,Leisure,Adventure Park,2,298,Resort,2,174,118,119,3014.048224,With Family
+T0989,France,62,Female,Leisure,Adventure Park,12,3715,Airbnb,6,474,145,197,3393.247762,With Family
+T0990,France,29,Female,Medical,Beach,4,3169,Airbnb,5,468,203,168,1244.894442,With Family
+T0991,China,31,Male,Leisure,Adventure Park,8,1658,Hostel,8,299,199,71,3454.217069,Without Family
+T0992,UK,72,Other,Business,Mountain,25,1610,Resort,1,233,166,37,4175.004839,With Family
+T0993,Canada,69,Other,Leisure,City,23,4571,Airbnb,4,446,56,140,2984.323953,With Family
+T0994,USA,42,Female,Business,Countryside,27,321,Airbnb,1,135,284,99,5149.008153,With Family
+T0995,China,37,Other,Education,Mountain,3,754,Hotel,10,263,162,45,2949.855958,With Family
+T0996,India,42,Female,Medical,Mountain,26,4709,Resort,5,150,141,193,3409.059496,Without Family
+T0997,China,31,Male,Business,Beach,17,2435,Airbnb,8,483,113,111,1784.080994,With Family
+T0998,USA,68,Other,Medical,Mountain,8,3788,Hotel,8,180,196,192,2913.901563,Without Family
+T0999,Germany,39,Male,Business,City,5,951,Resort,9,393,100,177,3659.401598,With Family
+T1000,India,19,Female,Medical,City,12,1897,Hotel,9,312,201,173,1838.741945,With Family
